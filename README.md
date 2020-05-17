@@ -1,10 +1,13 @@
-# Learning-on-Graphs
+# Learning on Graphs
 Awesome papers on learning on graphs
 
 ## Contents
 - [Regularization on graphs](#regularization)
 
+
 <a name="regularization" />
+
+## Regularization on Graphs
 
 1. **Kernels and Regularization on Graphs.**
     - COLT 2003.

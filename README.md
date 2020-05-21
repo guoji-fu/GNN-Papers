@@ -20,6 +20,20 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Mikhail Belkin, Irina Matveeva, Partha Niyogi.*
     - [paper](http://people.cs.uchicago.edu/~niyogi/papersps/reg_colt.pdf)
     
+1. **Uniform Convergence of Adaptive Graph-based Regularization.**
+    - COLT 2006.
+    - *Matthias Hein.*
+    - [paper](http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/Hein-Unif_Conv_Graph_Reg(2006)_3893[1].pdf)
+
+1. **Semi-Supervised Learning with the Graph Laplacian: The Limit of Infinite Unlabelled Data.**
+    - NIPS 2009.
+    - *Boaz Nadler, Nathan Srebro, Xueyuan Zhou.*
+    - [paper](https://papers.nips.cc/paper/3652-statistical-analysis-of-semi-supervised-learning-the-limit-of-infinite-unlabelled-data.pdf)
+
+1. **On Consistency of Graph-based Semi-supervised Learning.**
+    - ICDCS 2019.
+    - *Chengan Du, Yunpeng Zhao, Feng Wang.*
+    - [paper](https://arxiv.org/pdf/1703.06177.pdf)
     
 <a name="gsp" />
 

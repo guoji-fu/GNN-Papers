@@ -58,6 +58,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 ## Theory of Graph Neural Networks
     
+1. **How Powerful are Graph Neural Networks?**
+    - ICLR 2019.
+    - *Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka.*
+    - [paper](https://arxiv.org/pdf/1810.00826.pdf)
+
 1. **Stability and Generalization of Graph Convolutional Neural Networks.**
     - KDD 2019.
     - *Saurabh Verma, Zhi-Li Zhang.*
@@ -67,6 +72,16 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NIPS 2019.
     - *Nima Dehmamy, Albert-László Barabási, Rose Yu.*
     - [paper](https://arxiv.org/pdf/1907.05008.pdf)
+    
+1. **Universal Invariant and Equivariant Graph Neural Networks.**
+    - NIPS 2019.
+    - *Nicolas Keriven, Gabriel Peyré.*
+    - [paper](https://arxiv.org/pdf/1905.04943.pdf)
+    
+1. **On the Equivalence Between Graph Isomorphism Testing and Function Approximation with GNNs.**
+    - NIPS 2019.
+    - *Zhengdao Chen, Soledad Villar, Lei Chen, Joan Bruna.*
+    - [paper](https://arxiv.org/pdf/1905.12560.pdf)
     
 1. **Fundamental Limits of Deep Graph Convolutional Networks.**
     - arXiv 2019.
@@ -78,6 +93,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Kenta Oono, Taiji Suzuki.*
     - [paper](https://arxiv.org/pdf/1905.10947.pdf)
     - [code](https://github.com/delta2323/gnn-asymptotics)
+    
+1. **What Graph Neural Networks Cannot Learn: Depth vs Width.**
+    - ICLR 2020.
+    - *Andreas Loukas.*
+    - [paper](https://arxiv.org/pdf/1907.03199.pdf)
     
 1. **Generalization and Representational Limits of Graph Neural Networks.**
     - arXiv 2020.

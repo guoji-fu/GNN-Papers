@@ -5,6 +5,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 - [Regularization on graphs](#regularization)
 - [Graph signal processing](#gsp)
 - [Theory of graph neural networks](#gnn)
+- [Special graphs](#special)
 
 <a name="regularization" />
 
@@ -24,6 +25,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - DAGM 2005.
     - *Dengyong Zhou, Bernhard Scholkopf.*
     - [paper](https://link.springer.com/content/pdf/10.1007%2F11550518_45.pdf)
+    
+1. **Towards a Theoretical Foundation for Laplacian-Based Manifold Methods.**
+    - COLT 2005.
+    - *Mikhail Belkin, Partha Niyogi.*
+    - [paper](http://people.cs.uchicago.edu/~niyogi/papersps/BNcolt05.pdf)
     
 1. **From Graphs to Manifolds - Weak and Strong Pointwise Consistency of Graph Laplacians.**
     - COLT 2005.
@@ -113,4 +119,23 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2020.
     - *Vikas K. Garg, Stefanie Jegelka, Tommi Jaakkola.*
     - [paper](https://arxiv.org/pdf/2002.06157.pdf)
- 
+
+<a name="special" />
+
+## Special Graphs
+
+1. **Semi-supervised Learning on Directed Graphs.**
+    - NIPS 2004.
+    - *Dengyong Zhou, Bernhard Scholkopf, Thomas Hofmann.*
+    - [paper](https://papers.nips.cc/paper/2718-semi-supervised-learning-on-directed-graphs.pdf)
+    
+1. **Learning from Labeled and Unlabeled Data on a Directed Graph.**
+    - ICML 2005.
+    - *Dengyong Zhou, Jiayuan Huang, Bernhard Scholkopf.*
+    - [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.294.7765&rep=rep1&type=pdf)
+    
+1. **Learning with Hypergraphs: Clustering, Classification, and Embedding.**
+    - NIPS 2007
+    - *Dengyong Zhou, Jiayuan Huang, Bernhard Scholkopf.*
+    - [paper](https://papers.nips.cc/paper/3128-learning-with-hypergraphs-clustering-classification-and-embedding.pdf)
+    

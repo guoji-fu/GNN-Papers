@@ -20,6 +20,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Mikhail Belkin, Irina Matveeva, Partha Niyogi.*
     - [paper](http://people.cs.uchicago.edu/~niyogi/papersps/reg_colt.pdf)
     
+1. **From Graphs to Manifolds - Weak and Strong Pointwise Consistency of Graph Laplacians.**
+    - COLT 2005.
+    - *Matthias Hein, Jean-Yves Audibert, Ulrike von Luxburg.*
+    - [paper](https://www.tml.cs.uni-tuebingen.de/team/luxburg/publications/HeiAudLux05.pdf)
+    
 1. **Uniform Convergence of Adaptive Graph-based Regularization.**
     - COLT 2006.
     - *Matthias Hein.*

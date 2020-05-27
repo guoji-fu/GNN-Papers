@@ -20,6 +20,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Mikhail Belkin, Irina Matveeva, Partha Niyogi.*
     - [paper](http://people.cs.uchicago.edu/~niyogi/papersps/reg_colt.pdf)
     
+1. **Regularization on Discrete Spaces.**
+    - DAGM 2005.
+    - *Dengyong Zhou, Bernhard Scholkopf.*
+    - [paper](https://link.springer.com/content/pdf/10.1007%2F11550518_45.pdf)
+    
 1. **From Graphs to Manifolds - Weak and Strong Pointwise Consistency of Graph Laplacians.**
     - COLT 2005.
     - *Matthias Hein, Jean-Yves Audibert, Ulrike von Luxburg.*

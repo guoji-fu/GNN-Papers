@@ -46,10 +46,16 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Boaz Nadler, Nathan Srebro, Xueyuan Zhou.*
     - [paper](https://papers.nips.cc/paper/3652-statistical-analysis-of-semi-supervised-learning-the-limit-of-infinite-unlabelled-data.pdf)
 
+1. **Analysis of p-Laplacian Regularization in Semi-Supervised Learning.**
+    - SIAM Journal on Mathematical Analysis 2019.
+    - *Dejan Slepčev, Matthew Thorpe.*
+    - [paper](https://epubs.siam.org/doi/pdf/10.1137/17M115222X)
+
 1. **On Consistency of Graph-based Semi-supervised Learning.**
     - ICDCS 2019.
     - *Chengan Du, Yunpeng Zhao, Feng Wang.*
     - [paper](https://arxiv.org/pdf/1703.06177.pdf)
+    
     
 <a name="gsp" />
 

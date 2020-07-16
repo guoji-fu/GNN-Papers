@@ -45,6 +45,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NIPS 2009.
     - *Boaz Nadler, Nathan Srebro, Xueyuan Zhou.*
     - [paper](https://papers.nips.cc/paper/3652-statistical-analysis-of-semi-supervised-learning-the-limit-of-infinite-unlabelled-data.pdf)
+    
+1. **Algorithms for Lipschitz Learning on Graphs.**
+    - COLT 2015.
+    - *Rasmus Kyng, Anup Rao, Sushant Sachdeva, Daniel A. Spielman.*
+    - [paper](http://proceedings.mlr.press/v40/Kyng15.pdf)
 
 1. **Analysis of p-Laplacian Regularization in Semi-Supervised Learning.**
     - SIAM Journal on Mathematical Analysis 2019.

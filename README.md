@@ -131,6 +131,12 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Vikas K. Garg, Stefanie Jegelka, Tommi Jaakkola.*
     - [paper](https://arxiv.org/pdf/2002.06157.pdf)
 
+1. **On the Universality of Graph Neural Networks on Large Random Graphs.**
+    - arXiv 2021.
+    - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
+    - [paper](https://arxiv.org/pdf/2105.13099.pdf)
+    
+
 <a name="special" />
 
 ## Special Graphs

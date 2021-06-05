@@ -88,7 +88,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Markus Maier, Ulrike von Luxburg, Mikhail Belkin.*
     - [paper](http://www.tml.cs.uni-tuebingen.de/team/luxburg/publications/MaierLuxburgHein12.pdf)
 
-1. **K-Way $p$-Spectral Clustering on Grassmann Manifolds.**
+1. **K-Way p-Spectral Clustering on Grassmann Manifolds.**
     - JMLR 2021.
     - *Dimosthenis Pasadakis, Christie Louis Alappat, Olaf Schenk, Gerhard Wellein.*
     - [paper](https://arxiv.org/pdf/2008.13210.pdf)
@@ -98,12 +98,12 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 ## Analysis of Laplacian
 
-1. **On the Eigenvectors of $p$-Laplacian.**
+1. **On the Eigenvectors of p-Laplacian.**
     - Machine Learning 2010.
     - *Dijun Luo, Heng Huang, Chris Ding, Feiping Nie.*
     - [paper](https://link.springer.com/content/pdf/10.1007/s10994-010-5201-z.pdf)
     
-1. ![](http://latex.codecogs.com/gif.latex?**On the $p$-Laplacian and $\infty$-Laplacian on Graphs with Applications in Image and Data Processing.**
+1. **On the p-Laplacian and ![](http://latex.codecogs.com/gif.latex?$\\infty$)-Laplacian on Graphs with Applications in Image and Data Processing.**
     -  SIAM Journal on Imaging Science 2015.
     -  *Abderrahim Elmoataz, Matthieu Toutain, Daniel Tenbrinck.*
     -  [paper](https://epubs.siam.org/doi/pdf/10.1137/15M1022793?casa_token=1UrBrpsZ9M8AAAAA:UnXDGs_QAyqTk8ZhBjn1Pl37pfTAHzZ424P866DsMtTLbQzmBaOJumjZ3WZabbinuiBuWFbvG4pvGA)

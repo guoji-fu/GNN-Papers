@@ -3,6 +3,8 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 ## Contents
 - [Regularization on graphs](#regularization)
+- [Graph Clustering](#clustering)
+- [Analysis of Laplacian](#laplacian)
 - [Graph signal processing](#gsp)
 - [Theory of graph neural networks](#gnn)
 - [Special graphs](#special)
@@ -60,8 +62,62 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - ICDCS 2019.
     - *Chengan Du, Yunpeng Zhao, Feng Wang.*
     - [paper](https://arxiv.org/pdf/1703.06177.pdf)
+
+
+<a name="clustering" />
+
+## Graph Clustering
+
+1. **Limits of Spectral Clustering.**
+    - NIPS 2004.
+    - *Ulrike von Luxburg, Olivier Bousquet, Mikhail Belkin.*
+    - [paper](http://www.tml.cs.uni-tuebingen.de/team/luxburg/publications/LuxBouBel05_nips04.pdf)
+
+1. **A Sober Look on Clustering Stability.**
+    - COLT 2006.
+    - *Shai Ben-David1, Ulrike von Luxburg, David Pal.*
+    - [paper](http://www.tml.cs.uni-tuebingen.de/team/luxburg/publications/BenLuxPal06.pdf)
+
+1. **Consistency of Spectral Clustering.**
+    - Annals of Statistcs 2008.
+    - *Ulrike von Luxburg, Mikhail Belkin, Oliver Bousquet.*
+    - [paper](http://www.tml.cs.uni-tuebingen.de/team/luxburg/publications/LuxBelBou08.pdf)
     
+1. **How the Results of Graph Clustering Methods Depends on the Construction of the Graph.**
+    - Probability and Statistics 2012.
+    - *Markus Maier, Ulrike von Luxburg, Mikhail Belkin.*
+    - [paper](http://www.tml.cs.uni-tuebingen.de/team/luxburg/publications/MaierLuxburgHein12.pdf)
+
+1. **K-Way $p$-Spectral Clustering on Grassmann Manifolds.**
+    - JMLR 2021.
+    - *Dimosthenis Pasadakis, Christie Louis Alappat, Olaf Schenk, Gerhard Wellein.*
+    - [paper](https://arxiv.org/pdf/2008.13210.pdf)
+
+<a name="laplacian" />
+
+## Analysis of Laplacian
+
+1. **On the Eigenvectors of $p$-Laplacian.**
+    - Machine Learning 2010.
+    - *Dijun Luo, Heng Huang, Chris Ding, Feiping Nie.*
+    - [paper](https://link.springer.com/content/pdf/10.1007/s10994-010-5201-z.pdf)
     
+1. **On the $p$-Laplacian and $\infty$-Laplacian on Graphs with Applications in Image and Data Processing.**
+    -  SIAM Journal on Imaging Science 2015.
+    -  *Abderrahim Elmoataz, Matthieu Toutain, Daniel Tenbrinck.*
+    -  [paper](https://epubs.siam.org/doi/pdf/10.1137/15M1022793?casa_token=1UrBrpsZ9M8AAAAA:UnXDGs_QAyqTk8ZhBjn1Pl37pfTAHzZ424P866DsMtTLbQzmBaOJumjZ3WZabbinuiBuWFbvG4pvGA)
+
+1. **The 1-Laplacian Cheer Cut: Theory and Algorithms.**
+    - Journal of Computational Mathematics 2015.
+    - *K.C. Chang, Sihong Shao, Dong Zhang.*
+    - [paper](https://www.jstor.org/stable/pdf/43693873.pdf?casa_token=2UDp4e3dTCgAAAAA:QkZVSHQaQLAyMRAYb-7FlJBbM2ONeZqK_tzxQxISBXo4uzX4rEYE8ifkrCGkaMOvPCaoNm6WGvA3dxlYBS_yJwM7kDE2AYK_QkMFmQjVvsBcerG2CJVrSg)
+
+1. **Analysis of p-Laplacian Regularization in Semi-Supervised Learning.**
+    - SIAM Journal on Mathematical Analysis 2019.
+    - *Dejan Slepčev, Matthew Thorpe.*
+    - [paper](https://epubs.siam.org/doi/pdf/10.1137/17M115222X)
+
+
 <a name="gsp" />
 
 ## Graph Signal Processing
@@ -155,4 +211,9 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NIPS 2007
     - *Dengyong Zhou, Jiayuan Huang, Bernhard Scholkopf.*
     - [paper](https://papers.nips.cc/paper/3128-learning-with-hypergraphs-clustering-classification-and-embedding.pdf)
+
+1. **Submodular Hypergraphs: $p$-Laplacians, Cheeger Inequalities and Spectral Clustering.**
+    - ICML 2018
+    - *Pan Li, Olgica Milenkovic.*
+    - [paper](http://proceedings.mlr.press/v80/li18e/li18e.pdf)
     

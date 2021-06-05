@@ -93,6 +93,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Dimosthenis Pasadakis, Christie Louis Alappat, Olaf Schenk, Gerhard Wellein.*
     - [paper](https://arxiv.org/pdf/2008.13210.pdf)
 
+
 <a name="laplacian" />
 
 ## Analysis of Laplacian
@@ -102,7 +103,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Dijun Luo, Heng Huang, Chris Ding, Feiping Nie.*
     - [paper](https://link.springer.com/content/pdf/10.1007/s10994-010-5201-z.pdf)
     
-1. **On the $p$-Laplacian and $\infty$-Laplacian on Graphs with Applications in Image and Data Processing.**
+1. ![](http://latex.codecogs.com/gif.latex?**On the $p$-Laplacian and $\infty$-Laplacian on Graphs with Applications in Image and Data Processing.**
     -  SIAM Journal on Imaging Science 2015.
     -  *Abderrahim Elmoataz, Matthieu Toutain, Daniel Tenbrinck.*
     -  [paper](https://epubs.siam.org/doi/pdf/10.1137/15M1022793?casa_token=1UrBrpsZ9M8AAAAA:UnXDGs_QAyqTk8ZhBjn1Pl37pfTAHzZ424P866DsMtTLbQzmBaOJumjZ3WZabbinuiBuWFbvG4pvGA)

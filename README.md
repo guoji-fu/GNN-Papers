@@ -108,7 +108,12 @@ Awesome papers on learning on graphs with theoretical guarantees.
     -  *Abderrahim Elmoataz, Matthieu Toutain, Daniel Tenbrinck.*
     -  [paper](https://epubs.siam.org/doi/pdf/10.1137/15M1022793?casa_token=1UrBrpsZ9M8AAAAA:UnXDGs_QAyqTk8ZhBjn1Pl37pfTAHzZ424P866DsMtTLbQzmBaOJumjZ3WZabbinuiBuWFbvG4pvGA)
 
-1. **The 1-Laplacian Cheer Cut: Theory and Algorithms.**
+1. **Spectrum of the 1-Laplacian and Cheeger's Constant on Graphs.**
+    - Journal of Graph Theory.
+    - K.C. Chang.
+    - [paper](https://arxiv.org/pdf/1412.1150.pdf)
+    
+3. **The 1-Laplacian Cheer Cut: Theory and Algorithms.**
     - Journal of Computational Mathematics 2015.
     - *K.C. Chang, Sihong Shao, Dong Zhang.*
     - [paper](https://www.jstor.org/stable/pdf/43693873.pdf?casa_token=2UDp4e3dTCgAAAAA:QkZVSHQaQLAyMRAYb-7FlJBbM2ONeZqK_tzxQxISBXo4uzX4rEYE8ifkrCGkaMOvPCaoNm6WGvA3dxlYBS_yJwM7kDE2AYK_QkMFmQjVvsBcerG2CJVrSg)

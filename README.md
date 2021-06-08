@@ -56,7 +56,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 1. **Analysis of p-Laplacian Regularization in Semi-Supervised Learning.**
     - SIAM Journal on Mathematical Analysis 2019.
     - *Dejan Slepčev, Matthew Thorpe.*
-    - [paper](https://epubs.siam.org/doi/pdf/10.1137/17M115222X)
+    - [paper](https://arxiv.org/pdf/1707.06213.pdf)
 
 1. **On Consistency of Graph-based Semi-supervised Learning.**
     - ICDCS 2019.

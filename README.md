@@ -98,7 +98,12 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 ## Analysis of Laplacian
 
-1. **On the Eigenvectors of p-Laplacian.**
+1. **Bounds for the Largest p-Laplacian Eigenvalue for Graphs.**
+    - Discrete Mathematics 2006.
+    - *S. Amghibech.*
+    - [paper](https://core.ac.uk/download/pdf/82137839.pdf)
+    
+3. **On the Eigenvectors of p-Laplacian.**
     - Machine Learning 2010.
     - *Dijun Luo, Heng Huang, Chris Ding, Feiping Nie.*
     - [paper](https://link.springer.com/content/pdf/10.1007/s10994-010-5201-z.pdf)

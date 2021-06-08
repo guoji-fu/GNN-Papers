@@ -3,7 +3,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 ## Contents
 - [Regularization on graphs](#regularization)
-- [Graph Clustering](#clustering)
+- [Graph clustering](#clustering)
 - [Analysis of Laplacian](#laplacian)
 - [Graph signal processing](#gsp)
 - [Theory of graph neural networks](#gnn)

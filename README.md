@@ -2,12 +2,23 @@
 Awesome papers on learning on graphs with theoretical guarantees.
 
 ## Contents
+- [Books](#book)
 - [Regularization on graphs](#regularization)
 - [Graph clustering](#clustering)
 - [Analysis of Laplacian](#laplacian)
 - [Graph signal processing](#gsp)
 - [Theory of graph neural networks](#gnn)
 - [Special graphs](#special)
+
+<a name="book" />
+
+## Books
+
+1. **Geometric Structures on Manifolds.**
+    - arXiv 2021.
+    - *William M. Goldman.*
+    - [paper](http://www2.math.umd.edu/~wmg/gstom.pdf)
+
 
 <a name="regularization" />
 

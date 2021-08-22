@@ -209,6 +209,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Vikas K. Garg, Stefanie Jegelka, Tommi Jaakkola.*
     - [paper](https://arxiv.org/pdf/2002.06157.pdf)
 
+1. **On the Equivalence of Molecular Graph Convolution and Molecular Wave Function with Poor Basis Set.**
+    - Neurips 2020.
+    - *Masashi Tsubaki, Teruyasu Mizoguchi.*
+    - [paper](https://arxiv.org/pdf/2011.07929.pdf)
+
 1. **On the Universality of Graph Neural Networks on Large Random Graphs.**
     - arXiv 2021.
     - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
@@ -218,6 +223,13 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2021.
     - *Jiaqi Ma, Junwei Deng, Qiaozhu Mei.*
     - [paper](https://arxiv.org/pdf/2106.15535.pdf)
+
+1. **How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks.**
+    - ICLR 2021.
+    - *Keyulu Xu, Mozhi Zhang, Jingling Li, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka.*
+    - [paper](https://arxiv.org/pdf/2009.11848.pdf)
+
+
     
 
 <a name="special" />

@@ -229,7 +229,10 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Keyulu Xu, Mozhi Zhang, Jingling Li, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka.*
     - [paper](https://arxiv.org/pdf/2009.11848.pdf)
 
-
+1. **Subgroup Generalization and Fairness of Graph Neural Networks.**
+    - arXiv 2021.
+    - *Jiaqi Ma, Junwei Deng, Qiaozhu Mei.*
+    - [paper](https://arxiv.org/pdf/2106.15535.pdf)
     
 
 <a name="special" />

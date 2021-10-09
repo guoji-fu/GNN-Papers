@@ -74,6 +74,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Chengan Du, Yunpeng Zhao, Feng Wang.*
     - [paper](https://arxiv.org/pdf/1703.06177.pdf)
 
+1. **Consistent Semi-Supervised Graph Regularization for High Dimensional Data.**
+    - JMLR 2021.
+    - *Xiaoyi Mai, Romain Couillet.*
+    - [paper](https://www.jmlr.org/papers/volume22/19-081/19-081.pdf)
+
 
 <a name="clustering" />
 

@@ -109,6 +109,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Dimosthenis Pasadakis, Christie Louis Alappat, Olaf Schenk, Gerhard Wellein.*
     - [paper](https://arxiv.org/pdf/2008.13210.pdf)
 
+1. **Statistical Guarantees for Local Graph Clustering.**
+    - JMLR 2021.
+    - *Wooseok Ha, Kimon Fountoulakis, Michael W. Mahoney.*
+    - [paper](https://www.jmlr.org/papers/volume22/20-029/20-029.pdf)
+
 
 <a name="laplacian" />
 
@@ -143,6 +148,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - SIAM Journal on Mathematical Analysis 2019.
     - *Dejan Slepčev, Matthew Thorpe.*
     - [paper](https://epubs.siam.org/doi/pdf/10.1137/17M115222X)
+
+1. **Strong Consistency, Graph Laplacians, and the Stochastic Block Model.**
+    - JMLR 2021.
+    - *Shaofeng Deng, Shuyang Ling, Thomas Strohmer.*
+    - [paper](https://www.jmlr.org/papers/volume22/20-391/20-391.pdf)
 
 
 <a name="gsp" />

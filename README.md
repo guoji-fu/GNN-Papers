@@ -213,6 +213,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Kenta Oono, Taiji Suzuki.*
     - [paper](https://arxiv.org/pdf/1905.10947.pdf)
     - [code](https://github.com/delta2323/gnn-asymptotics)
+
+1. **How Hard is to Distinguish Graphs with Graph Neural Networks?**
+    - Neurips 2020.
+    - *Andreas Loukas.*
+    - [paper](https://arxiv.org/pdf/2005.06649.pdf)
     
 1. **What Graph Neural Networks Cannot Learn: Depth vs Width.**
     - ICLR 2020.

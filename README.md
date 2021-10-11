@@ -218,7 +218,12 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - Neurips 2020.
     - *Andreas Loukas.*
     - [paper](https://arxiv.org/pdf/2005.06649.pdf)
-    
+
+1. **The Logical Expressiveness of Graph Neural Networks.**
+    - ICLR 2020.
+    - *Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva.*
+    - [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
+
 1. **What Graph Neural Networks Cannot Learn: Depth vs Width.**
     - ICLR 2020.
     - *Andreas Loukas.*
@@ -233,6 +238,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - Neurips 2020.
     - *Masashi Tsubaki, Teruyasu Mizoguchi.*
     - [paper](https://arxiv.org/pdf/2011.07929.pdf)
+
+1. **Expressive Power of Invariant and Equivariant Graph Neural Networks.**
+    - arXiv 2020.
+    - *Waïss Azizian, Marc Lelarge.*
+    - [paper](https://arxiv.org/pdf/2006.15646.pdf)
 
 1. **On the Universality of Graph Neural Networks on Large Random Graphs.**
     - arXiv 2021.

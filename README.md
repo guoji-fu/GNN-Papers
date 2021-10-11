@@ -253,7 +253,12 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2021.
     - *Jiaqi Ma, Junwei Deng, Qiaozhu Mei.*
     - [paper](https://arxiv.org/pdf/2106.15535.pdf)
-    
+
+1. **Towards a Rigorous Theoretical Analysis and Evaluation of GNN Explanations.**
+    - arXiv 2021.
+    - *Chirag Agarwal, Marinka Zitnik, Himabindu Lakkaraju.*
+    - [paper](https://arxiv.org/pdf/2106.09078.pdf)
+
 
 <a name="special" />
 

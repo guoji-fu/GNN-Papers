@@ -54,11 +54,21 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Matthias Hein.*
     - [paper](http://is.tuebingen.mpg.de/fileadmin/user_upload/files/publications/Hein-Unif_Conv_Graph_Reg(2006)_3893[1].pdf)
 
+1. **On the Sample Complexity of Learning Smooth Cuts on a Manifold.**
+    - COLT 2009.
+    - *Hariharan Narayanan, Partha Niyogi.*
+    - [paper](http://www.mit.edu/~har/ManifoldSample.pdf)
+
 1. **Semi-Supervised Learning with the Graph Laplacian: The Limit of Infinite Unlabelled Data.**
     - NIPS 2009.
     - *Boaz Nadler, Nathan Srebro, Xueyuan Zhou.*
     - [paper](https://papers.nips.cc/paper/3652-statistical-analysis-of-semi-supervised-learning-the-limit-of-infinite-unlabelled-data.pdf)
-    
+
+1. **Sample Complexity of Testing the Manifold Hypothesis.**
+    - NIPS 2010.
+    - *Hariharan Narayanan, Sanjoy Mitter.*
+    - [paper](http://www.mit.edu/~har/Testing_Manifold_Hypothesis.pdf)
+
 1. **Algorithms for Lipschitz Learning on Graphs.**
     - COLT 2015.
     - *Rasmus Kyng, Anup Rao, Sushant Sachdeva, Daniel A. Spielman.*

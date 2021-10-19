@@ -69,6 +69,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Hariharan Narayanan, Sanjoy Mitter.*
     - [paper](http://www.mit.edu/~har/Testing_Manifold_Hypothesis.pdf)
 
+1. **Testing the Manifold Hypothesis.**
+    - arXiv 2013.
+    - *Charles Fefferman, Sanjoy Mitter, Hariharan Narayanan.*
+    - [paper](https://arxiv.org/pdf/1310.0425.pdf)
+
 1. **Algorithms for Lipschitz Learning on Graphs.**
     - COLT 2015.
     - *Rasmus Kyng, Anup Rao, Sushant Sachdeva, Daniel A. Spielman.*

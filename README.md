@@ -217,7 +217,12 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NIPS 2019.
     - *Zhengdao Chen, Soledad Villar, Lei Chen, Joan Bruna.*
     - [paper](https://arxiv.org/pdf/1905.12560.pdf)
-    
+
+1. **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels.**
+    - NeurIPS 2019.
+    - *Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu.*
+    - [paper](https://arxiv.org/pdf/1905.13192.pdf)
+
 1. **Fundamental Limits of Deep Graph Convolutional Networks.**
     - arXiv 2019.
     - *Abram Magner, Mayank Baranwal, Alfred O. Hero III.*
@@ -288,11 +293,6 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2021.
     - *Chirag Agarwal, Marinka Zitnik, Himabindu Lakkaraju.*
     - [paper](https://arxiv.org/pdf/2106.09078.pdf)
-
-1. **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels.**
-    - arXiv 2021.
-    - *Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu.*
-    - [paper](https://arxiv.org/pdf/1905.13192.pdf)
 
 
 <a name="special" />

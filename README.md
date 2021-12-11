@@ -289,6 +289,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Chirag Agarwal, Marinka Zitnik, Himabindu Lakkaraju.*
     - [paper](https://arxiv.org/pdf/2106.09078.pdf)
 
+1. **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels.**
+    - arXiv 2021.
+    - *Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu.*
+    - [paper](https://arxiv.org/pdf/1905.13192.pdf)
+
 
 <a name="special" />
 

@@ -14,6 +14,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 ## Books
 
+1. **Spectra of Graphs.**
+    - arXiv 2017.
+    - *Andries E. Brouwer, Willem H. Haemers.*
+    - [paper](https://homepages.cwi.nl/~aeb/math/ipm/ipm.pdf)
+
 1. **Geometric Structures on Manifolds.**
     - arXiv 2021.
     - *William M. Goldman.*

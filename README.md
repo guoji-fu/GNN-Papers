@@ -279,11 +279,6 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
     - [paper](https://arxiv.org/pdf/2105.13099.pdf)
 
-1. **Subgroup Generalization and Fairness of Graph Neural Networks.**
-    - arXiv 2021.
-    - *Jiaqi Ma, Junwei Deng, Qiaozhu Mei.*
-    - [paper](https://arxiv.org/pdf/2106.15535.pdf)
-
 1. **How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks.**
     - ICLR 2021.
     - *Keyulu Xu, Mozhi Zhang, Jingling Li, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka.*
@@ -295,7 +290,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - [paper](https://arxiv.org/pdf/2012.07690.pdf)
 
 1. **Subgroup Generalization and Fairness of Graph Neural Networks.**
-    - arXiv 2021.
+    - NeurIPS 2021.
     - *Jiaqi Ma, Junwei Deng, Qiaozhu Mei.*
     - [paper](https://arxiv.org/pdf/2106.15535.pdf)
 

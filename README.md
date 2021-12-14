@@ -198,6 +198,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 ## Theory of Graph Neural Networks
     
+1. **Mean-Field Theory of Graph Neural Networks in Graph Partitioning.**
+    - NeurIPS 2018.
+    - *Tatsuro Kawamoto, Masashi Tsubaki, Tomoyuki Obuchi.*
+    - [paper](https://proceedings.neurips.cc/paper/2018/file/f6e794a75c5d51de081dbefa224304f9-Paper.pdf)
+    
 1. **How Powerful are Graph Neural Networks?**
     - ICLR 2019.
     - *Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka.*

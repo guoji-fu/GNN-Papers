@@ -304,6 +304,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Chirag Agarwal, Marinka Zitnik, Himabindu Lakkaraju.*
     - [paper](https://arxiv.org/pdf/2106.09078.pdf)
 
+1. **Learning Theory Can (Sometimes) Explain Generalisation in Graph Neural Networks.**
+    - NeurIPS 2021.
+    - *Pascal Mattia Esser, Leena C. Vankadara, Debarghya Ghoshdastidar.*
+    - [paper](https://arxiv.org/pdf/2112.03968.pdf)
+
 
 <a name="special" />
 

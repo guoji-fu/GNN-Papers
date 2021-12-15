@@ -274,6 +274,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Waïss Azizian, Marc Lelarge.*
     - [paper](https://arxiv.org/pdf/2006.15646.pdf)
 
+1. **Transferability of Spectral Graph Convolutional Neural Networks.**
+    - JMLR 2021.
+    - *Ron Levie, Wei Huang, Lorenzo Bucci, Michael M. Bronstein, Gitta Kutyniok.*
+    - [paper](https://arxiv.org/pdf/1907.12972.pdf)
+
 1. **On the Universality of Graph Neural Networks on Large Random Graphs.**
     - arXiv 2021.
     - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*

@@ -9,6 +9,8 @@ Awesome papers on learning on graphs with theoretical guarantees.
 - [Graph signal processing](#gsp)
 - [Theory of graph neural networks](#gnn)
 - [Special graphs](#special)
+- [Graph Neural Tangent Kernel](#gntk)
+
 
 <a name="book" />
 
@@ -264,6 +266,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Vikas K. Garg, Stefanie Jegelka, Tommi Jaakkola.*
     - [paper](https://arxiv.org/pdf/2002.06157.pdf)
 
+1. **Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case.**
+    - ICML 2020.
+    - *Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong.*
+    - [paper](https://arxiv.org/pdf/2006.14117.pdf)
+
 1. **On the Equivalence of Molecular Graph Convolution and Molecular Wave Function with Poor Basis Set.**
     - Neurips 2020.
     - *Masashi Tsubaki, Teruyasu Mizoguchi.*
@@ -299,6 +306,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Jiaqi Ma, Junwei Deng, Qiaozhu Mei.*
     - [paper](https://arxiv.org/pdf/2106.15535.pdf)
 
+1. **Generalization Bounds for Graph Convolutional Neural Networks via Rademacher Complexity.**
+    - arXiv 2021.
+    - *Shaogao Lv.*
+    - [paper](https://arxiv.org/pdf/2102.10234.pdf)
+
 1. **Towards a Rigorous Theoretical Analysis and Evaluation of GNN Explanations.**
     - arXiv 2021.
     - *Chirag Agarwal, Marinka Zitnik, Himabindu Lakkaraju.*
@@ -308,6 +320,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NeurIPS 2021.
     - *Pascal Mattia Esser, Leena C. Vankadara, Debarghya Ghoshdastidar.*
     - [paper](https://arxiv.org/pdf/2112.03968.pdf)
+
+1. **On Provable Benefits of Depth in Training Graph Convolutional Networks.**
+    - NeurIPS 2021.
+    - *Weilin Cong, Morteza Ramezani, Mehrdad Mahdavi.*
+    - [paper](https://papers.nips.cc/paper/2021/file/524265e8b942930fbbe8a5d979d29205-Paper.pdf)
 
 
 <a name="special" />
@@ -334,3 +351,23 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Pan Li, Olgica Milenkovic.*
     - [paper](http://proceedings.mlr.press/v80/li18e/li18e.pdf)
     
+    
+<a name="gntk" />
+
+## Graph Neural Tangent Kernel
+
+1. **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels.**
+    - arXiv 2019.
+    - *Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu.*
+    - [paper](https://arxiv.org/pdf/1905.13192.pdf)
+
+1. **Convolutional Kernel Networks for Graph-Structured Data.**
+    - ICML 2020.
+    - *Dexiong Chen, Laurent Jacob, Julien Mairal.*
+    - [paper](https://arxiv.org/pdf/2003.05189.pdf)
+
+1. **Fast Graph Neural Tangent Kernel via Kronecker Sketching.**
+    - arXiv 2021.
+    - *Shunhua Jiang, Yunze Man, Zhao Song, Zheng Yu, Danyang Zhuo.*
+    - [paper](https://arxiv.org/pdf/2112.02446.pdf)
+

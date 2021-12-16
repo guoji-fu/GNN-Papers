@@ -240,6 +240,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Abram Magner, Mayank Baranwal, Alfred O. Hero III.*
     - [paper](https://arxiv.org/pdf/1910.12954.pdf)
 
+1. **What Can Neural Networks Reason About?**
+    - ICLR 2020.
+    - *Keyulu Xu, Jingling Li, Mozhi Zhang, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka.*
+    - [paper](https://arxiv.org/pdf/1905.13211.pdf)
+
 1. **Graph Neural Networks Exponentially Lose Expressive Power for Node Classification.**
     - ICLR 2020.
     - *Kenta Oono, Taiji Suzuki.*

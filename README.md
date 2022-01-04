@@ -331,6 +331,21 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Weilin Cong, Morteza Ramezani, Mehrdad Mahdavi.*
     - [paper](https://papers.nips.cc/paper/2021/file/524265e8b942930fbbe8a5d979d29205-Paper.pdf)
 
+1. **Reconstruction for Powerful Graph Representations.**
+    - NeurIPS 2021.
+    - *Leonardo Cotta, Christopher Morris, Bruno Ribeiro.*
+    - [paper](https://arxiv.org/pdf/2110.00577.pdf)
+
+1. **From Local Structures to Size Generalization in Graph Neural Networks.**
+    - ICML 2021.
+    - *Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron.*
+    - [paper](https://arxiv.org/pdf/2010.08853.pdf)
+
+1. **Weisfeiler and Leman go Machine Learning: The Story so far.**
+    - arXiv 2021.
+    - *Christopher Morris, Yaron Lipman, Haggai Maron, Bastian Rieck, Nils M. Kriege, Martin Grohe, Matthias Fey, Karsten Borgwardt.*
+    - [paper](https://arxiv.org/pdf/2112.09992.pdf)
+
 
 <a name="special" />
 

@@ -3,6 +3,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 ## Contents
 - [Books](#book)
+- [Survey](#survey)
 - [Regularization on graphs](#regularization)
 - [Graph clustering](#clustering)
 - [Analysis of Laplacian](#laplacian)
@@ -25,6 +26,16 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2021.
     - *William M. Goldman.*
     - [paper](http://www2.math.umd.edu/~wmg/gstom.pdf)
+
+
+<a name="survey" />
+
+## Survey
+
+1. **A Survey on Graph Kernels.**
+    - arXiv 2020.
+    - *Nils M. Kriege, Fredrik D. Johansson, and Christopher Morris.*
+    - [paper](https://arxiv.org/pdf/1903.11835.pdf)
 
 
 <a name="regularization" />

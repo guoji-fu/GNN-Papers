@@ -281,6 +281,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Masashi Tsubaki, Teruyasu Mizoguchi.*
     - [paper](https://arxiv.org/pdf/2011.07929.pdf)
 
+1. **Convergence and Stability of Graph Convolutional Networks on Large Random Graphs.**
+    - NeurIPS 2020.
+    - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
+    - [paper](https://arxiv.org/pdf/2006.01868.pdf)
+
 1. **Expressive Power of Invariant and Equivariant Graph Neural Networks.**
     - arXiv 2020.
     - *Waïss Azizian, Marc Lelarge.*
@@ -290,11 +295,6 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - JMLR 2021.
     - *Ron Levie, Wei Huang, Lorenzo Bucci, Michael M. Bronstein, Gitta Kutyniok.*
     - [paper](https://arxiv.org/pdf/1907.12972.pdf)
-
-1. **On the Universality of Graph Neural Networks on Large Random Graphs.**
-    - arXiv 2021.
-    - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
-    - [paper](https://arxiv.org/pdf/2105.13099.pdf)
 
 1. **How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks.**
     - ICLR 2021.
@@ -336,6 +336,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Leonardo Cotta, Christopher Morris, Bruno Ribeiro.*
     - [paper](https://arxiv.org/pdf/2110.00577.pdf)
 
+1. **On the Universality of Graph Neural Networks on Large Random Graphs.**
+    - NeurIPS 2021.
+    - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
+    - [paper](https://arxiv.org/pdf/2105.13099.pdf)
+
 1. **From Local Structures to Size Generalization in Graph Neural Networks.**
     - ICML 2021.
     - *Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron.*
@@ -345,7 +350,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2021.
     - *Christopher Morris, Yaron Lipman, Haggai Maron, Bastian Rieck, Nils M. Kriege, Martin Grohe, Matthias Fey, Karsten Borgwardt.*
     - [paper](https://arxiv.org/pdf/2112.09992.pdf)
-
+    
 
 <a name="special" />
 

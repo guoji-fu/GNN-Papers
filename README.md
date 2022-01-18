@@ -207,6 +207,12 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Rohan Varma.*
     - [paper](https://kilthub.cmu.edu/articles/Exploiting_Structure_In_Data_Sampling_and_Signal_Processing_on_Graphs/12026448)
 
+1. **Interpretable Stability Bounds for Spectral Graph Filters.**
+    - arXiv 2021.
+    - *Henry Kenlay, Dorina Thanou, Xiaowen Dong.*
+    - [paper](https://arxiv.org/pdf/2102.09587.pdf)
+
+
 <a name="gnn" />
 
 ## Theory of Graph Neural Networks
@@ -407,3 +413,14 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Shunhua Jiang, Yunze Man, Zhao Song, Zheng Yu, Danyang Zhuo.*
     - [paper](https://arxiv.org/pdf/2112.02446.pdf)
 
+## GNN & ODE
+
+1. **PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations.**
+    - NeurIPS 2021.
+    - *Moshe Eliasof, Eldad Haber, Eran Treister.*
+    - [paper](https://arxiv.org/pdf/2108.01938.pdf)
+    
+1. **Beltrami Flow and Neural Diffusion on Graphs.**
+    - NeurIPS 2021.
+    - **
+    - [paper](https://arxiv.org/pdf/2110.09443.pdf)

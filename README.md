@@ -426,5 +426,5 @@ Awesome papers on learning on graphs with theoretical guarantees.
     
 1. **Beltrami Flow and Neural Diffusion on Graphs.**
     - NeurIPS 2021.
-    - **
+    - *Benjamin Chamberlain, James Rowbottom, Davide Eynard, Francesco Di Giovanni, Xiaowen Dong, Michael Bronstein.*
     - [paper](https://arxiv.org/pdf/2110.09443.pdf)

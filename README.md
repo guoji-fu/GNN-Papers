@@ -11,6 +11,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 - [Theory of graph neural networks](#gnn)
 - [Special graphs](#special)
 - [Graph Neural Tangent Kernel](#gntk)
+- [GNN & PDE](#gnn-pde)
 
 
 <a name="book" />
@@ -413,7 +414,10 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Shunhua Jiang, Yunze Man, Zhao Song, Zheng Yu, Danyang Zhuo.*
     - [paper](https://arxiv.org/pdf/2112.02446.pdf)
 
-## GNN & ODE
+
+<a name="gnn-pde" />
+
+## GNN & PDE
 
 1. **PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations.**
     - NeurIPS 2021.

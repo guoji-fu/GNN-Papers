@@ -11,6 +11,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 - [Theory of graph neural networks](#gnn)
 - [Special graphs](#special)
 - [Graph Neural Tangent Kernel](#gntk)
+- [OOD on Graphs](#graph-ood)
 - [GNN & PDE](#gnn-pde)
 - [Graph Optimal Transport](#got)
 
@@ -414,6 +415,16 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2021.
     - *Shunhua Jiang, Yunze Man, Zhao Song, Zheng Yu, Danyang Zhuo.*
     - [paper](https://arxiv.org/pdf/2112.02446.pdf)
+
+
+<a name="graph-ood" />
+
+## OOD on Graphs
+
+1. **Towards Distribution Shift of Node-Level Prediction on Graphs: An Invariance Perspective.**
+    - arXiv 2021.
+    - *Anonymous.*
+    - [paper](https://openreview.net/pdf?id=FQOC5u-1egI)
 
 
 <a name="gnn-pde" />

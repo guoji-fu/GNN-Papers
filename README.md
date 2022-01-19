@@ -361,6 +361,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
     - [paper](https://arxiv.org/pdf/2105.13099.pdf)
 
+1. **GemNet: Universal Directional Graph Neural Networks for Molecules.**
+    - NeurIPS 2021.
+    - *Johannes Klicpera, Florian Becker, Stephan Günnemann.*
+    - [paper](https://arxiv.org/pdf/2106.08903.pdf)
+
 1. **From Local Structures to Size Generalization in Graph Neural Networks.**
     - ICML 2021.
     - *Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron.*

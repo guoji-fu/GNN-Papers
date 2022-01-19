@@ -12,6 +12,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 - [Special graphs](#special)
 - [Graph Neural Tangent Kernel](#gntk)
 - [GNN & PDE](#gnn-pde)
+- [Graph Optimal Transport](#got)
 
 
 <a name="book" />
@@ -428,3 +429,19 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NeurIPS 2021.
     - *Benjamin Chamberlain, James Rowbottom, Davide Eynard, Francesco Di Giovanni, Xiaowen Dong, Michael Bronstein.*
     - [paper](https://arxiv.org/pdf/2110.09443.pdf)
+
+
+<a name="got" />
+
+## Graph Optimal Transport
+
+1. **Graph Optimal Transport for Cross-Domain Alignment.**
+    - ICML 2020.
+    - *Liqun Chen, Zhe Gan, Yu Cheng, Linjie Li, Lawrence Carin, Jingjing Liu.*
+    - [paper](https://arxiv.org/pdf/2006.14744.pdf)
+
+1. **Entropic Optimal Transport in Random Graphs.**
+    - arXiv 2022.
+    - *Nicolas Keriven.*
+    - [paper](https://arxiv.org/pdf/2201.03949.pdf)
+

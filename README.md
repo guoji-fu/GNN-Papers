@@ -230,6 +230,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka.*
     - [paper](https://arxiv.org/pdf/1810.00826.pdf)
 
+1. **Invariant and Equivariant Graph Networks.**
+    - ICLR 2019.
+    - *Haggai Maron, Heli Ben-Hamu, Nadav Shamir & Yaron Lipman.*
+    - [paper](https://arxiv.org/pdf/1812.09902.pdf)
+
 1. **Stability and Generalization of Graph Convolutional Neural Networks.**
     - KDD 2019.
     - *Saurabh Verma, Zhi-Li Zhang.*
@@ -259,6 +264,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2019.
     - *Abram Magner, Mayank Baranwal, Alfred O. Hero III.*
     - [paper](https://arxiv.org/pdf/1910.12954.pdf)
+
+1. **A Simple Proof of the Universality of Invariant/Equivariant Graph Neural Networks.**
+    - arXiv 2019.
+    - *Takanori Maehara, Hoang NT.*
+    - [paper](https://arxiv.org/pdf/1910.03802.pdf)
 
 1. **What Can Neural Networks Reason About?**
     - ICLR 2020.
@@ -310,6 +320,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2020.
     - *Waïss Azizian, Marc Lelarge.*
     - [paper](https://arxiv.org/pdf/2006.15646.pdf)
+
+1. **The Expressive Power of kth-Order Invariant Graph Networks.**
+    - arXiv 2020.
+    - *Floris Geerts.*
+    - [paper](https://arxiv.org/pdf/2007.12035.pdf)
 
 1. **Transferability of Spectral Graph Convolutional Neural Networks.**
     - JMLR 2021.
@@ -375,6 +390,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2021.
     - *Christopher Morris, Yaron Lipman, Haggai Maron, Bastian Rieck, Nils M. Kriege, Martin Grohe, Matthias Fey, Karsten Borgwardt.*
     - [paper](https://arxiv.org/pdf/2112.09992.pdf)
+
+1. **On the Bottleneck of Graph Neural Networks and its Practical Implications.**
+    - ICLR 2021.
+    - *Uri Alon, Eran Yahav.*
+    - [paper](https://arxiv.org/pdf/2006.05205.pdf)
     
 
 <a name="special" />

@@ -14,6 +14,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 - [OOD on Graphs](#graph-ood)
 - [GNN & PDE](#gnn-pde)
 - [Graph Optimal Transport](#got)
+- [New GNN Architectures](#arch)
 
 
 <a name="book" />
@@ -481,8 +482,35 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Liqun Chen, Zhe Gan, Yu Cheng, Linjie Li, Lawrence Carin, Jingjing Liu.*
     - [paper](https://arxiv.org/pdf/2006.14744.pdf)
 
+1. **Optimal Transport Graph Neural Networks.**
+    - arXiv 2021.
+    - *Benson Chen, Gary Bécigneul, Octavian-Eugen Ganea, Regina Barzilay, Tommi Jaakkola.*
+    - [paper](https://arxiv.org/pdf/2006.04804.pdf)
+
 1. **Entropic Optimal Transport in Random Graphs.**
     - arXiv 2022.
     - *Nicolas Keriven.*
     - [paper](https://arxiv.org/pdf/2201.03949.pdf)
 
+
+<a name="arch" />
+
+1. **Constant Curvature Graph Convolutional Networks.**
+    - ICML 2020.
+    - *Gregor Bachmann, Gary Bécigneul, Octavian-Eugen Ganea.*
+    - [paper](https://arxiv.org/pdf/1911.05076.pdf)
+
+1. **Graph Homomorphism Convolution.**
+    - ICML 2020.
+    - *Hoang NT, Takanori Maehara.*
+    - [paper](https://arxiv.org/pdf/2005.01214.pdf)
+
+1. **Building Powerful and Equivariant Graph Neural Networks with Structural Message-Passing.**
+    - NeurIPS 2020.
+    - *Clement Vignac, Andreas Loukas, Pascal Frossard.*
+    - [paper](https://arxiv.org/pdf/2006.15107.pdf)
+
+1. **Nested Graph Neural Networks.**
+    - NeurIPS 2021.
+    - *Muhan Zhang, Pan Li*
+    - [paper](https://arxiv.org/pdf/2110.13197.pdf)

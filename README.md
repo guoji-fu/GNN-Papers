@@ -500,6 +500,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 <a name="arch" />
 
+1. **Hyperbolic Neural Networks.**
+    - NeurIPS 2018.
+    - *Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann.*
+    - [paper](https://arxiv.org/pdf/1805.09112.pdf)
+
 1. **Constant Curvature Graph Convolutional Networks.**
     - ICML 2020.
     - *Gregor Bachmann, Gary Bécigneul, Octavian-Eugen Ganea.*

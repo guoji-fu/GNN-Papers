@@ -175,10 +175,15 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - K.C. Chang.
     - [paper](https://arxiv.org/pdf/1412.1150.pdf)
     
-3. **The 1-Laplacian Cheer Cut: Theory and Algorithms.**
+1. **The 1-Laplacian Cheer Cut: Theory and Algorithms.**
     - Journal of Computational Mathematics 2015.
     - *K.C. Chang, Sihong Shao, Dong Zhang.*
     - [paper](https://www.jstor.org/stable/pdf/43693873.pdf?casa_token=2UDp4e3dTCgAAAAA:QkZVSHQaQLAyMRAYb-7FlJBbM2ONeZqK_tzxQxISBXo4uzX4rEYE8ifkrCGkaMOvPCaoNm6WGvA3dxlYBS_yJwM7kDE2AYK_QkMFmQjVvsBcerG2CJVrSg)
+
+1. **A nodal domain theorem and a higher-order Cheeger inequality for the graph p-Laplacian.**
+    - arXiv 2016.
+    - *Francesco Tudisco, Matthias Hein.*
+    - [paper](https://arxiv.org/pdf/1602.05567.pdf)
 
 1. **Analysis of p-Laplacian Regularization in Semi-Supervised Learning.**
     - SIAM Journal on Mathematical Analysis 2019.

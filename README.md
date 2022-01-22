@@ -402,6 +402,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Uri Alon, Eran Yahav.*
     - [paper](https://arxiv.org/pdf/2006.05205.pdf)
     
+1. **The Logic of Graph Neural Networks.**
+    - arXiv 2021.
+    - *Martin Grohe*
+    - [paper](https://arxiv.org/pdf/2104.14624.pdf)
+
 
 <a name="special" />
 

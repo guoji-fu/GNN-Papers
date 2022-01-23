@@ -467,6 +467,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 ## GNN & PDE
 
+1. **Neural Ordinary Differential Equations on Manifolds.**
+    - arXiv 2020.
+    - *Luca Falorsi, Patrick Forré.*
+    - [paper](https://arxiv.org/pdf/2006.06663.pdf)
+
 1. **PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations.**
     - NeurIPS 2021.
     - *Moshe Eliasof, Eldad Haber, Eran Treister.*

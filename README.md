@@ -151,6 +151,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Wooseok Ha, Kimon Fountoulakis, Michael W. Mahoney.*
     - [paper](https://www.jmlr.org/papers/volume22/20-029/20-029.pdf)
 
+1. **Graphon based Clustering and Testing of Networks: Algorithms and Theory.**
+    - ICLR 2022.
+    - *Mahalakshmi Sabanayagam, Leena Chennuru Vankadara, Debarghya Ghoshdastidar.*
+    - [paper](https://arxiv.org/pdf/2110.02722.pdf)
+
 
 <a name="laplacian" />
 
@@ -462,6 +467,10 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Shunhua Jiang, Yunze Man, Zhao Song, Zheng Yu, Danyang Zhuo.*
     - [paper](https://arxiv.org/pdf/2112.02446.pdf)
 
+1. **New Insights into Graph Convolutional Networks using Neural Tangent Kernels.**
+    - arXiv 2021.
+    - *Mahalakshmi Sabanayagam, Pascal Esser, Debarghya Ghoshdastidar.*
+    - [paper](https://arxiv.org/pdf/2110.04060.pdf)
 
 <a name="graph-ood" />
 
@@ -491,6 +500,16 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NeurIPS 2021.
     - *Benjamin Chamberlain, James Rowbottom, Davide Eynard, Francesco Di Giovanni, Xiaowen Dong, Michael Bronstein.*
     - [paper](https://arxiv.org/pdf/2110.09443.pdf)
+
+1. **Machine Learning For Elliptic PDEs: Fast Rate Generalization Bound, Neural Scaling Law and Minimax Optimality.**
+    - ICLR 2022.
+    - *Yiping Lu, Haoxuan Chen, Jianfeng Lu, Lexing Ying, Jose Blanchet.*
+    - [paper](https://arxiv.org/pdf/2110.06897.pdf)
+
+1. **Message Passing Neural PDE Solvers.**
+    - ICLR 2022.
+    - *.*
+    - [paper](https://openreview.net/pdf?id=vSix3HPYKSU)
 
 
 <a name="got" />
@@ -539,3 +558,68 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NeurIPS 2021.
     - *Muhan Zhang, Pan Li*
     - [paper](https://arxiv.org/pdf/2110.13197.pdf)
+
+1. **Neural Structured Prediction for Inductive Node Classification.**
+    - ICLR 2022.
+    - *.*
+    - [paper](https://openreview.net/pdf?id=YWNAX0caEjI)
+
+1. **Frame Averaging for Invariant and Equivariant Network Design.**
+    - ICLR 2022.
+    - *Omri Puny, Matan Atzmon, Heli Ben-Hamu, Edward J. Smith, Ishan Misra, Aditya Grover, Yaron Lipman.*
+    - [paper](https://arxiv.org/pdf/2110.03336.pdf)
+
+
+<a name="inv_eq" />
+
+## Invariant & Equivariant GNNs
+
+1. **Invariant and Equivariant Graph Networks.**
+    - ICLR 2019.
+    - *Haggai Maron, Heli Ben-Hamu, Nadav Shamir & Yaron Lipman.*
+    - [paper](https://arxiv.org/pdf/1812.09902.pdf)
+
+1. **Universal Invariant and Equivariant Graph Neural Networks.**
+    - NIPS 2019.
+    - *Nicolas Keriven, Gabriel Peyré.*
+    - [paper](https://arxiv.org/pdf/1905.04943.pdf)
+
+1. **Expressive Power of Invariant and Equivariant Graph Neural Networks.**
+    - arXiv 2020.
+    - *Waïss Azizian, Marc Lelarge.*
+    - [paper](https://arxiv.org/pdf/2006.15646.pdf)
+
+1. **The Expressive Power of kth-Order Invariant Graph Networks.**
+    - arXiv 2020.
+    - *Floris Geerts.*
+    - [paper](https://arxiv.org/pdf/2007.12035.pdf)
+
+1. **Equivariant Subgraph Aggregation Networks.**
+    - ICLR 2022.
+    - *Beatrice Bevilacqua, Fabrizio Frasca, Derek Lim, Balasubramaniam Srinivasan, Chen Cai, Gopinath Balamurugan, Michael M. Bronstein, Haggai Maron.*
+    - [paper](https://arxiv.org/pdf/2110.02910.pdf)
+
+1. **Geometric and Physical Quantities improve E(3) Equivariant Message Passing.**
+    - ICLR 2022.
+    - *Geometric and Physical Quantities Improve E(3) Equivariant Message Passing.*
+    - [paper](https://arxiv.org/pdf/2110.02905.pdf)
+
+
+<a name="implicit-gnn" />
+
+## Implicit GNNs
+
+1. **Implicit Graph Neural Networks.**
+    - Neurips 2020.
+    - *Fangda Gu, Heng Chang, Wenwu Zhu, Somayeh Sojoudi, Laurent El Ghaoui.*
+    - [paper](https://arxiv.org/pdf/2009.06211.pdf)
+
+1. **EIGNN: Efficient Infinite-Depth Graph Neural Networks.**
+    - NeurIPS 2021.
+    - *Juncheng Liu, Kenji Kawaguchi, Bryan Hooi, Yiwei Wang, Xiaokui Xiao.*
+    - [paper](https://papers.nips.cc/paper/2021/file/9bd5ee6fe55aaeb673025dbcb8f939c1-Paper.pdf)
+
+1. **Convergent Graph Solvers.**
+    - ICLR 2022.
+    - *Convergent Graph Solvers.*
+    - [paper](https://arxiv.org/pdf/2106.01680.pdf)

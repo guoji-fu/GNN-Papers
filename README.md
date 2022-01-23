@@ -196,6 +196,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Shaofeng Deng, Shuyang Ling, Thomas Strohmer.*
     - [paper](https://www.jmlr.org/papers/volume22/20-391/20-391.pdf)
 
+1. **Understanding Over-Squashing and Bottlenecks on Graphs via Curvature.**
+    - ICLR 2022.
+    - *Jake Topping, Francesco Di Giovanni, Benjamin Paul Chamberlain, Xiaowen Dong, Michael M. Bronstein.*
+    - [paper](https://arxiv.org/pdf/2111.14522.pdf)
+
 
 <a name="gsp" />
 
@@ -406,6 +411,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2021.
     - *Martin Grohe*
     - [paper](https://arxiv.org/pdf/2104.14624.pdf)
+
+1. **A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"**
+    - ICLR 2022.
+    - *.*
+    - [paper](https://openreview.net/pdf?id=uxgg9o7bI_3)
 
 
 <a name="special" />

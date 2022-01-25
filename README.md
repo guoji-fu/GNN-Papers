@@ -12,6 +12,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 - [Special graphs](#special)
 - [Graph Neural Tangent Kernel](#gntk)
 - [OOD on Graphs](#graph-ood)
+- [Transferability of GNNs](#tranf)
 - [GNN & PDE](#gnn-pde)
 - [Graph Optimal Transport](#got)
 - [New GNN Architectures](#arch)
@@ -510,6 +511,36 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - ICLR 2022.
     - *.*
     - [paper](https://openreview.net/pdf?id=vSix3HPYKSU)
+
+
+<a name="tranf-gnn" />
+
+## Transferability of GNNs
+
+1. **Graphon Neural Networks and the Transferability of Graph Neural Networks.**
+    - NeurIPS 2020.
+    - *Luana Ruiz, Luiz F. O. Chamon, Alejandro Ribeiro.*
+    - [paper](https://arxiv.org/pdf/2006.03548.pdf)
+
+1. **Transferability of Spectral Graph Convolutional Neural Networks.**
+    - JMLR 2021.
+    - *Ron Levie, Wei Huang, Lorenzo Bucci, Michael M. Bronstein, Gitta Kutyniok.*
+    - [paper](https://arxiv.org/pdf/1907.12972.pdf)
+
+1. **Graph Neural Networks: Architectures, Stability and Transferability.**
+    - Proceedings of IEEE 2021.
+    - *Luana Ruiz, Fernando Gama, Alejandro Ribeiro.*
+    - [paper](https://arxiv.org/pdf/2008.01767.pdf)
+
+1. **Transferability Properties of Graph Neural Networks.**
+    - arXiv 2021.
+    - *Luana Ruiz, Luiz F. O. Chamon and Alejandro Ribeiro.*
+    - [paper](https://arxiv.org/pdf/2112.04629.pdf)
+
+1. **Transfer Learning of Graph Neural Networks with Ego-graph Information Maximization.**
+    - NeurIPS 2021.
+    - *Qi Zhu, Carl Yang, Yidan Xu, Haonan Wang, Chao Zhang, Jiawei Han.*
+    - [paper](https://arxiv.org/pdf/2009.05204.pdf)
 
 
 <a name="got" />

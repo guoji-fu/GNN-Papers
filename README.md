@@ -403,6 +403,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron.*
     - [paper](https://arxiv.org/pdf/2010.08853.pdf)
 
+1. **A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**
+    - ICML 2021.
+    - *Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*
+    - [paper](https://arxiv.org/pdf/2102.06790.pdf)
+
 1. **Weisfeiler and Leman go Machine Learning: The Story so far.**
     - arXiv 2021.
     - *Christopher Morris, Yaron Lipman, Haggai Maron, Bastian Rieck, Nils M. Kriege, Martin Grohe, Matthias Fey, Karsten Borgwardt.*

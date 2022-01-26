@@ -16,8 +16,9 @@ Awesome papers on learning on graphs with theoretical guarantees.
 - [GNN & PDE](#gnn-pde)
 - [Graph Optimal Transport](#got)
 - [New GNN Architectures](#arch)
-- [Casualty & GNNs](#casual)
+- [Weisfeiler-Lehman GNNs](#wl-gnn)
 - [Logic & GNNs](#logic)
+- [Casualty & GNNs](#casual)
 - [Interesting Papers](#interest)
 
 
@@ -44,6 +45,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2020.
     - *Nils M. Kriege, Fredrik D. Johansson, and Christopher Morris.*
     - [paper](https://arxiv.org/pdf/1903.11835.pdf)
+
+1. **Graph Kernels: State-of-the-Art and Future Challenges.**
+    - arXiv 2020.
+    - *Karsten Borgwardt, Elisabetta Ghisu, Felipe Llinares-López, Leslie O'Bray, Bastian Rieck.*
+    - [paper](https://arxiv.org/pdf/2011.03854.pdf)
 
 
 <a name="regularization" />
@@ -255,16 +261,6 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NeurIPS 2018.
     - *Tatsuro Kawamoto, Masashi Tsubaki, Tomoyuki Obuchi.*
     - [paper](https://proceedings.neurips.cc/paper/2018/file/f6e794a75c5d51de081dbefa224304f9-Paper.pdf)
-    
-1. **How Powerful are Graph Neural Networks?**
-    - ICLR 2019.
-    - *Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka.*
-    - [paper](https://arxiv.org/pdf/1810.00826.pdf)
-
-1. **Invariant and Equivariant Graph Networks.**
-    - ICLR 2019.
-    - *Haggai Maron, Heli Ben-Hamu, Nadav Shamir & Yaron Lipman.*
-    - [paper](https://arxiv.org/pdf/1812.09902.pdf)
 
 1. **Stability and Generalization of Graph Convolutional Neural Networks.**
     - KDD 2019.
@@ -275,31 +271,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NIPS 2019.
     - *Nima Dehmamy, Albert-László Barabási, Rose Yu.*
     - [paper](https://arxiv.org/pdf/1907.05008.pdf)
-    
-1. **Universal Invariant and Equivariant Graph Neural Networks.**
-    - NIPS 2019.
-    - *Nicolas Keriven, Gabriel Peyré.*
-    - [paper](https://arxiv.org/pdf/1905.04943.pdf)
-    
-1. **On the Equivalence Between Graph Isomorphism Testing and Function Approximation with GNNs.**
-    - NIPS 2019.
-    - *Zhengdao Chen, Soledad Villar, Lei Chen, Joan Bruna.*
-    - [paper](https://arxiv.org/pdf/1905.12560.pdf)
-
-1. **Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels.**
-    - NeurIPS 2019.
-    - *Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu.*
-    - [paper](https://arxiv.org/pdf/1905.13192.pdf)
 
 1. **Fundamental Limits of Deep Graph Convolutional Networks.**
     - arXiv 2019.
     - *Abram Magner, Mayank Baranwal, Alfred O. Hero III.*
     - [paper](https://arxiv.org/pdf/1910.12954.pdf)
-
-1. **A Simple Proof of the Universality of Invariant/Equivariant Graph Neural Networks.**
-    - arXiv 2019.
-    - *Takanori Maehara, Hoang NT.*
-    - [paper](https://arxiv.org/pdf/1910.03802.pdf)
 
 1. **What Can Neural Networks Reason About?**
     - ICLR 2020.
@@ -341,21 +317,6 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NeurIPS 2020.
     - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
     - [paper](https://arxiv.org/pdf/2006.01868.pdf)
-
-1. **Expressive Power of Invariant and Equivariant Graph Neural Networks.**
-    - arXiv 2020.
-    - *Waïss Azizian, Marc Lelarge.*
-    - [paper](https://arxiv.org/pdf/2006.15646.pdf)
-
-1. **The Expressive Power of kth-Order Invariant Graph Networks.**
-    - arXiv 2020.
-    - *Floris Geerts.*
-    - [paper](https://arxiv.org/pdf/2007.12035.pdf)
-
-1. **Transferability of Spectral Graph Convolutional Neural Networks.**
-    - JMLR 2021.
-    - *Ron Levie, Wei Huang, Lorenzo Bucci, Michael M. Bronstein, Gitta Kutyniok.*
-    - [paper](https://arxiv.org/pdf/1907.12972.pdf)
 
 1. **How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks.**
     - ICLR 2021.
@@ -417,20 +378,10 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*
     - [paper](https://arxiv.org/pdf/2102.06790.pdf)
 
-1. **Weisfeiler and Leman go Machine Learning: The Story so far.**
-    - arXiv 2021.
-    - *Christopher Morris, Yaron Lipman, Haggai Maron, Bastian Rieck, Nils M. Kriege, Martin Grohe, Matthias Fey, Karsten Borgwardt.*
-    - [paper](https://arxiv.org/pdf/2112.09992.pdf)
-
 1. **On the Bottleneck of Graph Neural Networks and its Practical Implications.**
     - ICLR 2021.
     - *Uri Alon, Eran Yahav.*
     - [paper](https://arxiv.org/pdf/2006.05205.pdf)
-
-1. **A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"**
-    - ICLR 2022.
-    - *.*
-    - [paper](https://openreview.net/pdf?id=uxgg9o7bI_3)
 
 
 <a name="special" />
@@ -638,9 +589,53 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - [paper](https://arxiv.org/pdf/2110.03336.pdf)
 
 
+<a name="wl-gnn" />
+
+## Weisfeiler-Lehman & GNNs
+
+1. **How Powerful are Graph Neural Networks?**
+    - ICLR 2019.
+    - *Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka.*
+    - [paper](https://arxiv.org/pdf/1810.00826.pdf)
+
+1. **On the Equivalence Between Graph Isomorphism Testing and Function Approximation with GNNs.**
+    - NIPS 2019.
+    - *Zhengdao Chen, Soledad Villar, Lei Chen, Joan Bruna.*
+    - [paper](https://arxiv.org/pdf/1905.12560.pdf)
+
+1. **Improving Graph Neural Network Expressivity via Subgraph Isomorphism Counting.**
+    - arXiv 2020.
+    - *Giorgos Bouritsas, Fabrizio Frasca, Stefanos Zafeiriou, Michael M. Bronstein.*
+    - [paper](https://arxiv.org/pdf/2006.09252.pdf)
+
+1. **Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks.**
+    - ICML 2021.
+    - *Cristian Bodnar, Fabrizio Frasca, Yu Guang Wang, Nina Otter, Guido Montúfar, Pietro Liò, Michael Bronstein.*
+    - [paper](https://arxiv.org/pdf/2103.03212.pdf)
+
+1. **Weisfeiler and Lehman Go Cellular: CW Networks.**
+    - NeurIPS 2021.
+    - *Cristian Bodnar, Fabrizio Frasca, Nina Otter, Yu Guang Wang, Pietro Liò, Guido Montúfar, Michael Bronstein.*
+    - [paper](https://arxiv.org/pdf/2106.12575.pdf)
+
+1. **Weisfeiler and Leman go Machine Learning: The Story so far.**
+    - arXiv 2021.
+    - *Christopher Morris, Yaron Lipman, Haggai Maron, Bastian Rieck, Nils M. Kriege, Martin Grohe, Matthias Fey, Karsten Borgwardt.*
+    - [paper](https://arxiv.org/pdf/2112.09992.pdf)
+
+1. **A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"**
+    - ICLR 2022.
+    - *.*
+    - [paper](https://openreview.net/pdf?id=uxgg9o7bI_3)
+
 <a name="inv_eq" />
 
 ## Invariant & Equivariant GNNs
+
+1. **Generalization Error of Invariant Classifiers.**
+    - AISTAT 2016.
+    - *Jure Sokolic, Raja Giryes, Guillermo Sapiro, Miguel R. D. Rodrigues.*
+    - [paper](https://arxiv.org/pdf/1610.04574.pdf)
 
 1. **Invariant and Equivariant Graph Networks.**
     - ICLR 2019.
@@ -651,6 +646,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NIPS 2019.
     - *Nicolas Keriven, Gabriel Peyré.*
     - [paper](https://arxiv.org/pdf/1905.04943.pdf)
+
+1. **A Simple Proof of the Universality of Invariant/Equivariant Graph Neural Networks.**
+    - arXiv 2019.
+    - *Takanori Maehara, Hoang NT.*
+    - [paper](https://arxiv.org/pdf/1910.03802.pdf)
 
 1. **Expressive Power of Invariant and Equivariant Graph Neural Networks.**
     - arXiv 2020.
@@ -678,7 +678,23 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - [paper](https://arxiv.org/pdf/2110.02905.pdf)
 
 
-<a name="implicit-gnn" />
+<a name="logic" />
+
+## Logic & GNNs
+
+1. **The Logical Expressiveness of Graph Neural Networks.**
+    - ICLR 2020.
+    - *Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva.*
+    - [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
+
+1. **The Logic of Graph Neural Networks.**
+    - arXiv 2021.
+    - *Martin Grohe*
+    - [paper](https://arxiv.org/pdf/2104.14624.pdf)
+   
+
+
+<a name="implicit" />
 
 ## Implicit GNNs
 
@@ -711,21 +727,6 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - ICML 2021.
     - *Wanyu Lin, Hao Lan, Baochun Li.*
     - [paper](https://arxiv.org/pdf/2104.06643.pdf)
-
-
-<a name="logic" />
-
-## Logic & GNNs
-
-1. **The Logical Expressiveness of Graph Neural Networks.**
-    - ICLR 2020.
-    - *Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva.*
-    - [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
-
-1. **The Logic of Graph Neural Networks.**
-    - arXiv 2021.
-    - *Martin Grohe*
-    - [paper](https://arxiv.org/pdf/2104.14624.pdf)
 
 
 <a name="interest" />

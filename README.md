@@ -754,3 +754,8 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - ICML 2021.
     - *Hao Yuan, Haiyang Yu, Jie Wang, Kang Li, Shuiwang Ji.*
     - [paper](https://arxiv.org/pdf/2102.05152.pdf)
+
+1. **How Framelets Enhance Graph Neural Networks.**
+    - ICML 2021.
+    - *Xuebin Zheng, Bingxin Zhou, Junbin Gao, Yu Guang Wang, Pietro Lio, Ming Li, Guido Montufar.*
+    - [paper](https://arxiv.org/pdf/2102.06986.pdf)

@@ -513,6 +513,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Louis-Pascal A. C. Xhonneux, Meng Qu, Jian Tang.*
     - [paper](https://arxiv.org/pdf/1912.00967.pdf)
 
+1. **GRAND: Graph Neural Diffusion.**
+    - ICML 2021.
+    - *Benjamin Paul Chamberlain, James Rowbottom, Maria Gorinova, Stefan Webb, Emanuele Rossi, Michael M. Bronstein.*
+    - [paper](https://arxiv.org/pdf/2106.10934.pdf)
+
 1. **PDE-GCN: Novel Architectures for Graph Neural Networks Motivated by Partial Differential Equations.**
     - NeurIPS 2021.
     - *Moshe Eliasof, Eldad Haber, Eran Treister.*
@@ -578,6 +583,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Benson Chen, Gary Bécigneul, Octavian-Eugen Ganea, Regina Barzilay, Tommi Jaakkola.*
     - [paper](https://arxiv.org/pdf/2006.04804.pdf)
 
+1. **Scalable Optimal Transport in High Dimensions for Graph Distances, Embedding Alignment, and More.**
+    - ICML 2021.
+    - *Johannes Klicpera, Marten Lienen, Stephan Günnemann.*
+    - [paper](https://arxiv.org/pdf/2107.06876.pdf)
+
 1. **Entropic Optimal Transport in Random Graphs.**
     - arXiv 2022.
     - *Nicolas Keriven.*
@@ -605,6 +615,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - NeurIPS 2020.
     - *Clement Vignac, Andreas Loukas, Pascal Frossard.*
     - [paper](https://arxiv.org/pdf/2006.15107.pdf)
+
+1. **Breaking the Limits of Message Passing Graph Neural Networks.**
+    - ICML 2021.
+    - *Muhammet Balcilar, Pierre Héroux, Benoit Gaüzère, Pascal Vasseur, Sébastien Adam, Paul Honeine.*
+    - [paper](https://arxiv.org/pdf/2106.04319.pdf)
 
 1. **Nested Graph Neural Networks.**
     - NeurIPS 2021.
@@ -675,3 +690,28 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - ICLR 2022.
     - *Convergent Graph Solvers.*
     - [paper](https://arxiv.org/pdf/2106.01680.pdf)
+
+
+<a name="casual" />
+
+## Causalty & GNNs
+
+1. **Relating Graph Neural Networks to Structural Causal Models.**
+    - arXiv 2021.
+    - *Matej Zečević, Devendra Singh Dhami, Petar Veličković, Kristian Kersting.*
+    - [paper](https://arxiv.org/pdf/2109.04173.pdf)
+
+1. **Generative Causal Explanations for Graph Neural Networks.**
+    - ICML 2021.
+    - *Wanyu Lin, Hao Lan, Baochun Li.*
+    - [paper](https://arxiv.org/pdf/2104.06643.pdf)
+
+
+<a name="interest" />
+
+## Interesting Papers
+
+1. **DeepWalking Backwards: From Embeddings Back to Graphs.**
+    - ICML 2021.
+    - *Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos E. Tsourakakis.*
+    - [paper](https://arxiv.org/pdf/2102.08532.pdf)

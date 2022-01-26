@@ -232,10 +232,16 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Rohan Varma.*
     - [paper](https://kilthub.cmu.edu/articles/Exploiting_Structure_In_Data_Sampling_and_Signal_Processing_on_Graphs/12026448)
 
+1. **Graphon Signal Processing.**
+    - IEEE Transactions on Signal Processing 2021.
+    - *Luana Ruiz, Luiz F. O. Chamon, Alejandro Ribeiro.*
+    - [paper](https://arxiv.org/pdf/2003.05030.pdf)
+
 1. **Interpretable Stability Bounds for Spectral Graph Filters.**
     - arXiv 2021.
     - *Henry Kenlay, Dorina Thanou, Xiaowen Dong.*
     - [paper](https://arxiv.org/pdf/2102.09587.pdf)
+
 
 
 <a name="gnn" />

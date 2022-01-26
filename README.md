@@ -217,6 +217,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Aamir Anis, Aly El Gamal, Salman Avestimehr, Antonio Ortega.*
     - [paper](https://arxiv.org/pdf/1705.09518.pdf)
 
+1. **The Graphon Fourier Transform.**
+    - ICASSP 2020.
+    - *Luana Ruiz, Luiz F. O. Chamon, Alejandro Ribeiro.*
+    - [paper](https://arxiv.org/pdf/1910.10195.pdf)
+
 1. **Sampling on Graphs: From Theory to Applications.**
     - arXiv 2020.
     - *Yuichi Tanaka, Yonina C. Eldar, Antonio Ortega, Gene Cheung.*

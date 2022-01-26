@@ -17,6 +17,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 - [Graph Optimal Transport](#got)
 - [New GNN Architectures](#arch)
 - [Casualty & GNNs](#casual)
+- [Logic & GNNs](#logic)
 - [Interesting Papers](#interest)
 
 
@@ -316,11 +317,6 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - *Andreas Loukas.*
     - [paper](https://arxiv.org/pdf/2005.06649.pdf)
 
-1. **The Logical Expressiveness of Graph Neural Networks.**
-    - ICLR 2020.
-    - *Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva.*
-    - [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
-
 1. **What Graph Neural Networks Cannot Learn: Depth vs Width.**
     - ICLR 2020.
     - *Andreas Loukas.*
@@ -430,11 +426,6 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - ICLR 2021.
     - *Uri Alon, Eran Yahav.*
     - [paper](https://arxiv.org/pdf/2006.05205.pdf)
-    
-1. **The Logic of Graph Neural Networks.**
-    - arXiv 2021.
-    - *Martin Grohe*
-    - [paper](https://arxiv.org/pdf/2104.14624.pdf)
 
 1. **A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"**
     - ICLR 2022.
@@ -490,6 +481,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2021.
     - *Mahalakshmi Sabanayagam, Pascal Esser, Debarghya Ghoshdastidar.*
     - [paper](https://arxiv.org/pdf/2110.04060.pdf)
+
 
 <a name="graph-ood" />
 
@@ -719,6 +711,21 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - ICML 2021.
     - *Wanyu Lin, Hao Lan, Baochun Li.*
     - [paper](https://arxiv.org/pdf/2104.06643.pdf)
+
+
+<a name="logic" />
+
+## Logic & GNNs
+
+1. **The Logical Expressiveness of Graph Neural Networks.**
+    - ICLR 2020.
+    - *Pablo Barceló, Egor V. Kostylev, Mikael Monet, Jorge Pérez, Juan Reutter, Juan Pablo Silva.*
+    - [paper](https://openreview.net/pdf?id=r1lZ7AEKvB)
+
+1. **The Logic of Graph Neural Networks.**
+    - arXiv 2021.
+    - *Martin Grohe*
+    - [paper](https://arxiv.org/pdf/2104.14624.pdf)
 
 
 <a name="interest" />

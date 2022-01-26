@@ -16,6 +16,8 @@ Awesome papers on learning on graphs with theoretical guarantees.
 - [GNN & PDE](#gnn-pde)
 - [Graph Optimal Transport](#got)
 - [New GNN Architectures](#arch)
+- [Casualty & GNNs](#casual)
+- [Interesting Papers](#interest)
 
 
 <a name="book" />
@@ -596,6 +598,8 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 <a name="arch" />
 
+## New GNN Architectures
+
 1. **Hyperbolic Neural Networks.**
     - NeurIPS 2018.
     - *Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann.*
@@ -620,6 +624,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - ICML 2021.
     - *Muhammet Balcilar, Pierre Héroux, Benoit Gaüzère, Pascal Vasseur, Sébastien Adam, Paul Honeine.*
     - [paper](https://arxiv.org/pdf/2106.04319.pdf)
+
+1. **Graph Neural Networks Inspired by Classical Iterative Algorithms.**
+    - ICML 2021.
+    - *Yongyi Yang, Tang Liu, Yangkun Wang, Jinjing Zhou, Quan Gan, Zhewei Wei, Zheng Zhang, Zengfeng Huang, David Wipf.*
+    - [paper](https://arxiv.org/pdf/2103.06064.pdf)
 
 1. **Nested Graph Neural Networks.**
     - NeurIPS 2021.
@@ -660,6 +669,11 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - arXiv 2020.
     - *Floris Geerts.*
     - [paper](https://arxiv.org/pdf/2007.12035.pdf)
+
+1. **E(n) Equivariant Graph Neural Networks.**
+    - ICML 2021.
+    - *Victor Garcia Satorras, Emiel Hoogeboom, Max Welling.*
+    - [paper](https://arxiv.org/pdf/2102.09844.pdf)
 
 1. **Equivariant Subgraph Aggregation Networks.**
     - ICLR 2022.
@@ -715,3 +729,28 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - ICML 2021.
     - *Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos E. Tsourakakis.*
     - [paper](https://arxiv.org/pdf/2102.08532.pdf)
+
+1. **Lipschitz Normalization for Self-Attention Layers with Application to Graph Neural Networks.**
+    - ICML 2021.
+    - *George Dasoulas, Kevin Scaman, Aladin Virmaux.*
+    - [paper](https://arxiv.org/pdf/2103.04886.pdf)
+
+1. **Graph Mixture Density Networks.**
+    - ICML 2021.
+    - *Federico Errica, Davide Bacciu, Alessio Micheli.*
+    - [paper](https://arxiv.org/pdf/2012.03085.pdf)
+
+1. **Improving Breadth-Wise Backpropagation in Graph Neural Networks Helps Learning Long-Range Dependencies.**
+    - ICML 2021.
+    - *Denis Lukovnikov, Asja Fischer.*
+    - [paper](https://proceedings.mlr.press/v139/lukovnikov21a.html)
+
+1. **Directed Graph Embeddings in Pseudo-Riemannian Manifolds.**
+    - ICML 2021.
+    - *Aaron Sim, Maciej Wiatrak, Angus Brayne, Páidí Creed, Saee Paliwal.*
+    - [paper](https://arxiv.org/pdf/2106.08678.pdf)
+
+1. **On Explainability of Graph Neural Networks via Subgraph Explorations.** (Sharply Value)
+    - ICML 2021.
+    - *Hao Yuan, Haiyang Yu, Jie Wang, Kang Li, Shuiwang Ji.*
+    - [paper](https://arxiv.org/pdf/2102.05152.pdf)

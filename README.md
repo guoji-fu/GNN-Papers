@@ -3,6 +3,7 @@ Awsome Papers for Graph Neural Networks (GNNs).
 
 ## Contents
 - [Survey](#survey)
+- [Theory](#theory)
 - [Model](#model)
   - [Graph Convolutional Networks](#gcn)
   - [Graph Attention Networks](#gan)
@@ -10,34 +11,183 @@ Awsome Papers for Graph Neural Networks (GNNs).
   - [Graph Generative Networks](#ggn)
   - [Graph Reinforcement Learning](#grl)
   - [Graph Spatial-Temporal Networks](#gstn)
-  - [Theoretical Analysis](#theory)
 
 - [Library](#library)
 
 <a name="survey" />
 
 ## Survey
-1. **A Comprehensive Survey on Graph Neural Networks.**
-*Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019. [paper](https://arxiv.org/pdf/1901.00596.pdf)
 
-1. **Relational Inductive Biases, Deep Learning, and Graph Networks.** 
-*Battaglia, Peter W and Hamrick, Jessica B and Bapst, Victor and Sanchez-Gonzalez, Alvaro and Zambaldi, Vinicius and Malinowski, Mateusz and Tacchetti, Andrea and Raposo, David and Santoro, Adam and Faulkner, Ryan and others.* 2018. [paper](https://arxiv.org/pdf/1806.01261.pdf)
-
-1. **Graph Neural Networks: A Review of Methods and Applications.** *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 2018 [paper](https://arxiv.org/pdf/1812.08434.pdf)
-
-1. **Deep learning on graphs: A survey.** Ziwei Zhang, Peng Cui and Wenwu Zhu. 2018. [paper](https://arxiv.org/pdf/1812.04202.pdf)
-
-1. **Attention models in graphs.** *John Boaz Lee, Ryan A. Rossi, Sungchul Kim, Nesreen K. Ahmed, Eunyee Koh.* 2018. [paper](https://arxiv.org/pdf/1807.07984.pdf)
-
-1. **Geometric deep learning: going beyond euclidean data.** *Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst.*  2016. [paper](https://arxiv.org/pdf/1611.08097.pdf)
+1. **Geometric deep learning: going beyond euclidean data.** 
+    - arXiv 2016. 
+    - *Michael M. Bronstein, Joan Bruna, Yann LeCun, Arthur Szlam, Pierre Vandergheynst.*  
+    - [paper](https://arxiv.org/pdf/1611.08097.pdf)
 
 1. **Neural Message Passing for Quantum Chemistry.**
-*Gilmer, Justin and Schoenholz, Samuel S and Riley, Patrick F and Vinyals, Oriol and Dahl, George E.* 2017. [paper](https://arxiv.org/pdf/1704.01212.pdf)
+    - arXiv 2017. 
+    - *Gilmer, Justin and Schoenholz, Samuel S and Riley, Patrick F and Vinyals, Oriol and Dahl, George E.* 
+    - [paper](https://arxiv.org/pdf/1704.01212.pdf)
+
+1. **Relational Inductive Biases, Deep Learning, and Graph Networks.** 
+    - arXiv 2018. 
+    - *Battaglia, Peter W and Hamrick, Jessica B and Bapst, Victor and Sanchez-Gonzalez, Alvaro and Zambaldi, Vinicius and Malinowski, Mateusz and Tacchetti, Andrea and Raposo, David and Santoro, Adam and Faulkner, Ryan and others.* 
+    - [paper](https://arxiv.org/pdf/1806.01261.pdf)
+
+1. **Graph Neural Networks: A Review of Methods and Applications.** 
+    - arXiv 2018.
+    - *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun.* 
+    - [paper](https://arxiv.org/pdf/1812.08434.pdf)
+
+1. **Deep learning on graphs: A survey.** 
+    - arXiv 2018.
+    - Ziwei Zhang, Peng Cui and Wenwu Zhu. 
+    - [paper](https://arxiv.org/pdf/1812.04202.pdf)
+
+1. **Attention models in graphs.** 
+    - arXiv 2018.
+    - *John Boaz Lee, Ryan A. Rossi, Sungchul Kim, Nesreen K. Ahmed, Eunyee Koh.* 
+    - [paper](https://arxiv.org/pdf/1807.07984.pdf)
+
+1. **A Comprehensive Survey on Graph Neural Networks.**
+    - arXiv 2019.
+    - *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 
+    - [paper](https://arxiv.org/pdf/1901.00596.pdf)
+
+
+<a name="theory" />
+
+## Theory
+
+1. **Mean-Field Theory of Graph Neural Networks in Graph Partitioning.**
+    - NeurIPS 2018.
+    - *Tatsuro Kawamoto, Masashi Tsubaki, Tomoyuki Obuchi.*
+    - [paper](https://proceedings.neurips.cc/paper/2018/file/f6e794a75c5d51de081dbefa224304f9-Paper.pdf)
+
+1. **Stability and Generalization of Graph Convolutional Neural Networks.**
+    - KDD 2019.
+    - *Saurabh Verma, Zhi-Li Zhang.*
+    - [paper](https://arxiv.org/pdf/1905.01004.pdf)
+
+1. **Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology.**
+    - NIPS 2019.
+    - *Nima Dehmamy, Albert-László Barabási, Rose Yu.*
+    - [paper](https://arxiv.org/pdf/1907.05008.pdf)
+
+1. **Fundamental Limits of Deep Graph Convolutional Networks.**
+    - arXiv 2019.
+    - *Abram Magner, Mayank Baranwal, Alfred O. Hero III.*
+    - [paper](https://arxiv.org/pdf/1910.12954.pdf)
+
+1. **What Can Neural Networks Reason About?**
+    - ICLR 2020.
+    - *Keyulu Xu, Jingling Li, Mozhi Zhang, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka.*
+    - [paper](https://arxiv.org/pdf/1905.13211.pdf)
+
+1. **Graph Neural Networks Exponentially Lose Expressive Power for Node Classification.**
+    - ICLR 2020.
+    - *Kenta Oono, Taiji Suzuki.*
+    - [paper](https://arxiv.org/pdf/1905.10947.pdf)
+    - [code](https://github.com/delta2323/gnn-asymptotics)
+
+1. **What Graph Neural Networks Cannot Learn: Depth vs Width.**
+    - ICLR 2020.
+    - *Andreas Loukas.*
+    - [paper](https://arxiv.org/pdf/1907.03199.pdf)
+
+1. **How Hard is to Distinguish Graphs with Graph Neural Networks?**
+    - Neurips 2020.
+    - *Andreas Loukas.*
+    - [paper](https://arxiv.org/pdf/2005.06649.pdf)
+
+1. **On the Equivalence of Molecular Graph Convolution and Molecular Wave Function with Poor Basis Set.**
+    - Neurips 2020.
+    - *Masashi Tsubaki, Teruyasu Mizoguchi.*
+    - [paper](https://arxiv.org/pdf/2011.07929.pdf)
+
+1. **Convergence and Stability of Graph Convolutional Networks on Large Random Graphs.**
+    - NeurIPS 2020.
+    - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
+    - [paper](https://arxiv.org/pdf/2006.01868.pdf)
+
+1. **Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case.**
+    - ICML 2020.
+    - *Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong.*
+    - [paper](https://arxiv.org/pdf/2006.14117.pdf)
+    
+1. **Generalization and Representational Limits of Graph Neural Networks.**
+    - arXiv 2020.
+    - *Vikas K. Garg, Stefanie Jegelka, Tommi Jaakkola.*
+    - [paper](https://arxiv.org/pdf/2002.06157.pdf)
+
+1. **How Neural Networks Extrapolate: From Feedforward to Graph Neural Networks.**
+    - ICLR 2021.
+    - *Keyulu Xu, Mozhi Zhang, Jingling Li, Simon S. Du, Ken-ichi Kawarabayashi, Stefanie Jegelka.*
+    - [paper](https://arxiv.org/pdf/2009.11848.pdf)
+
+1. **A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks.**
+    - ICLR 2021.
+    - *Renjie Liao, Raquel Urtasun, Richard Zemel.*
+    - [paper](https://arxiv.org/pdf/2012.07690.pdf)
+
+1. **On the Bottleneck of Graph Neural Networks and its Practical Implications.**
+    - ICLR 2021.
+    - *Uri Alon, Eran Yahav.*
+    - [paper](https://arxiv.org/pdf/2006.05205.pdf)
+
+1. **Subgroup Generalization and Fairness of Graph Neural Networks.**
+    - NeurIPS 2021.
+    - *Jiaqi Ma, Junwei Deng, Qiaozhu Mei.*
+    - [paper](https://arxiv.org/pdf/2106.15535.pdf)
+
+1. **Learning Theory Can (Sometimes) Explain Generalisation in Graph Neural Networks.**
+    - NeurIPS 2021.
+    - *Pascal Mattia Esser, Leena C. Vankadara, Debarghya Ghoshdastidar.*
+    - [paper](https://arxiv.org/pdf/2112.03968.pdf)
+
+1. **On Provable Benefits of Depth in Training Graph Convolutional Networks.**
+    - NeurIPS 2021.
+    - *Weilin Cong, Morteza Ramezani, Mehrdad Mahdavi.*
+    - [paper](https://papers.nips.cc/paper/2021/file/524265e8b942930fbbe8a5d979d29205-Paper.pdf)
+
+1. **Reconstruction for Powerful Graph Representations.**
+    - NeurIPS 2021.
+    - *Leonardo Cotta, Christopher Morris, Bruno Ribeiro.*
+    - [paper](https://arxiv.org/pdf/2110.00577.pdf)
+
+1. **On the Universality of Graph Neural Networks on Large Random Graphs.**
+    - NeurIPS 2021.
+    - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
+    - [paper](https://arxiv.org/pdf/2105.13099.pdf)
+
+1. **GemNet: Universal Directional Graph Neural Networks for Molecules.**
+    - NeurIPS 2021.
+    - *Johannes Klicpera, Florian Becker, Stephan Günnemann.*
+    - [paper](https://arxiv.org/pdf/2106.08903.pdf)
+
+1. **From Local Structures to Size Generalization in Graph Neural Networks.**
+    - ICML 2021.
+    - *Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron.*
+    - [paper](https://arxiv.org/pdf/2010.08853.pdf)
+
+1. **A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**
+    - ICML 2021.
+    - *Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*
+    - [paper](https://arxiv.org/pdf/2102.06790.pdf)
+
+1. **Generalization Bounds for Graph Convolutional Neural Networks via Rademacher Complexity.**
+    - arXiv 2021.
+    - *Shaogao Lv.*
+    - [paper](https://arxiv.org/pdf/2102.10234.pdf)
+
+1. **Towards a Rigorous Theoretical Analysis and Evaluation of GNN Explanations.**
+    - arXiv 2021.
+    - *Chirag Agarwal, Marinka Zitnik, Himabindu Lakkaraju.*
+    - [paper](https://arxiv.org/pdf/2106.09078.pdf)
+
 
 <a name="model" />
 
 ## Model
-
 
 <a name="gcn" />
 

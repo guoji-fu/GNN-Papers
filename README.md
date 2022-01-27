@@ -60,7 +60,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
 
 ## Graph Neural Networks
 
-<a name="gnn-generaliztaion" />
+<a name="gnn-generalization" />
 
 ### Generalization of GNNs
     

@@ -21,7 +21,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - [Graph clustering](#lg-clustering)
     - [Analysis of Laplacian](#lg-laplacian)
     - [Learning on Special graphs](#lg-special)
-- [Graph signal processing](#gsp)
+- [Graph Signal Processing](#gsp)
 - [Out-of-Distribution Generalization on Graphs](#graph-ood)
 - [Interesting Papers](#interest)
 

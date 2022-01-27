@@ -500,38 +500,6 @@ Gabriele Monfardini.* 2009. [paper](http://citeseerx.ist.psu.edu/viewdoc/downloa
 1. **Structured Sequence Modeling with Graph Convolutional Recurrent Networks.** *Youngjoo Seo, Michaël Defferrard, Pierre Vandergheynst, Xavier Bresson.* 2016. [paper](https://arxiv.org/pdf/1612.07659.pdf) [code](https://github.com/youngjoo-epfl/gconvRNN)
 
 
-<a name="theory" />
-
-### Theoretical Analysis
-
-#### 2019
-
-1. **How Powerful are Graph Neural Networks?.**
-*Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka.* ICLR 2019. [paper](https://openreview.net/pdf?id=ryGs6iA5Km) [code](https://github.com/weihua916/powerful-gnns)
-
-1. **Simplifying Graph Convolutional Networks.**
-*Felix Wu, Amauri Souza, Tianyi Zhang, Christopher Fifty, Tao Yu, Kilian Weinberger.* ICML 2019. [paper](http://proceedings.mlr.press/v97/wu19e.html) [code](https://github.com/Tiiiger/SGC)
-
-1. **Can GCNs Go as Deep as CNNs?.**
-*Guohao Li, Matthias Müller, Ali Thabet, Bernard Ghanem.* 2019. [paper](https://arxiv.org/pdf/1904.03751.pdf) [code](https://github.com/lightaime/deep_gcns) [website](https://sites.google.com/view/deep-gcns)
-
-1. **Revisiting Graph Neural Networks: All We Have is Low-Pass Filters.** 
-*Hoang NT, Takanori Maehara.* 2019. [paper](https://arxiv.org/pdf/1905.09550.pdf) [code](https://github.com/gear/gfnn)
-
-1. **On Asymptotic Behaviors of Graph CNNs from Dynamical Systems Perspective.**
-*Kenta Oono, Taiji Suzuki.* 2019 [paper](https://arxiv.org/pdf/1905.10947.pdf)
-
-#### 2018
-
-1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.**
-*Jianfei Chen, Jun Zhu, Le Song.* ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
-
-#### 2016
-
-**Revisiting Semi-Supervised Learning with Graph Embeddings.**
-*Zhilin Yang, William W. Cohen, Ruslan Salakhutdinov* ICML 2016. [paper](https://arxiv.org/pdf/1603.08861.pdf) [code](https://github.com/kimiyoung/planetoid)
-
-
 <a name="Library" />
 
 ## Library

@@ -20,7 +20,7 @@ Awesome papers on learning on graphs with theoretical guarantees.
     - [Regularization on graphs](#lg-regularization)
     - [Graph clustering](#lg-clustering)
     - [Analysis of Laplacian](#lg-laplacian)
-    - [Learning on Special graphs](#lg-special)
+    - [Learning on Special Graphs](#lg-special)
 - [Graph Signal Processing](#gsp)
 - [Out-of-Distribution Generalization on Graphs](#graph-ood)
 - [Interesting Papers](#interest)

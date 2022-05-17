@@ -196,36 +196,68 @@ Awsome Papers for Graph Neural Networks (GNNs).
 #### 2019
 
 1. **LanczosNet: Multi-Scale Deep Graph Convolutional Networks** 
-*Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard S. Zemel1* ICLR 2019. [paper](https://openreview.net/pdf?id=BkedznAqKQ) [code](https://github.com/lrjconan/LanczosNetwork)
+    - ICLR 2019.
+    - *Renjie Liao, Zhizhen Zhao, Raquel Urtasun, Richard S. Zemel1*
+    - [paper](https://openreview.net/pdf?id=BkedznAqKQ) 
+    - [code](https://github.com/lrjconan/LanczosNetwork)
 
 1. **Deep Graph Infomax.**
-*Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.* ICLR 2019. [paper](https://openreview.net/pdf?id=rklz9iAcKQ) [code](https://github.com/PetarV-/DGI)
+    - ICLR 2019.
+    - *Petar Veličković, William Fedus, William L. Hamilton, Pietro Liò, Yoshua Bengio, R Devon Hjelm.* 
+    - [paper](https://openreview.net/pdf?id=rklz9iAcKQ) 
+    - [code](https://github.com/PetarV-/DGI)
 
 1. **Combining Neural Networks with Personalized PageRank for Classification on Graphs.**
-*Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.* ICLR 2019. [paper](https://arxiv.org/pdf/1810.05997.pdf)
+    - ICLR 2019.
+    - *Johannes Klicpera, Aleksandar Bojchevski, Stephan Günnemann.*  
+    - [paper](https://arxiv.org/pdf/1810.05997.pdf)
 
 1. **Capsule Graph Neural Network.** 
-*Zhang Xinyi, Lihui Chen.* ICLR 2019. [paper](https://openreview.net/pdf?id=Byl8BnRcYm) [code](https://github.com/benedekrozemberczki/CapsGNN)
+    - ICLR 2019.
+    - *Zhang Xinyi, Lihui Chen.*  
+    - [paper](https://openreview.net/pdf?id=Byl8BnRcYm) 
+    - [code](https://github.com/benedekrozemberczki/CapsGNN)
 
 1. **Diffusion Scattering Transforms on Graphs.** 
-*Fernando Gama, Alejandro Ribeiro, Joan Bruna.* ICLR 2019. [paper](https://arxiv.org/pdf/1806.08829.pdf)
+    - ICLR 2019. 
+    - *Fernando Gama, Alejandro Ribeiro, Joan Bruna.* 
+    - [paper](https://arxiv.org/pdf/1806.08829.pdf)
 
-1. **Graph Wavelet Neural Network.** *Bingbing Xu, Huawei Shen, Qi Cao, Yunqi Qiu, Xueqi Cheng.* ICLR 2019. [paper](https://openreview.net/pdf?id=H1ewdiR5tQ) [code](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork)
+1. **Graph Wavelet Neural Network.** 
+    - ICLR 2019. 
+    - *Bingbing Xu, Huawei Shen, Qi Cao, Yunqi Qiu, Xueqi Cheng.* 
+    - [paper](https://openreview.net/pdf?id=H1ewdiR5tQ) 
+    - [code](https://github.com/benedekrozemberczki/GraphWaveletNeuralNetwork)
 
 1. **GMNN: Graph Markov Neural Networks.** 
-*Meng Qu, Yoshua Bengio, Jian Tang.* ICML 2019. [paper](https://arxiv.org/pdf/1905.06214.pdf) [code](https://github.com/DeepGraphLearning/GMNN)
+    - ICML 2019. 
+    - *Meng Qu, Yoshua Bengio, Jian Tang.* 
+    - [paper](https://arxiv.org/pdf/1905.06214.pdf) 
+    - [code](https://github.com/DeepGraphLearning/GMNN)
 
 1. **Position-aware Graph Neural Networks.**
-*Jiaxuan You, Rex Ying, Jure Leskovec.* ICML 2019. [paper](http://proceedings.mlr.press/v97/you19b.html) [code](https://github.com/JiaxuanYou/P-GNN)
+    - ICML 2019.
+    - *Jiaxuan You, Rex Ying, Jure Leskovec.*  
+    - [paper](http://proceedings.mlr.press/v97/you19b.html) 
+    - [code](https://github.com/JiaxuanYou/P-GNN)
 
 1. **Compositional Fairness Constraints for Graph Embeddings.**
-*Avishek Joey Bose, William L. Hamilton.* ICML 2019. [paper](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf) [code](https://github.com/joeybose/Flexible-Fairness-Constraints)
+    - ICML 2019. 
+    - *Avishek Joey Bose, William L. Hamilton.* 
+    - [paper](http://proceedings.mlr.press/v97/bose19a/bose19a.pdf) 
+    - [code](https://github.com/joeybose/Flexible-Fairness-Constraints)
 
 1. **Learning Discrete Structures for Graph Neural Networks.**
-*Luca Franceschi, Mathias Niepert, Massimiliano Pontil, Xiao He.* ICML 2019. [paper](http://proceedings.mlr.press/v97/franceschi19a.html) [code](https://github.com/lucfra/LDS)
+    - ICML 2019. 
+    - *Luca Franceschi, Mathias Niepert, Massimiliano Pontil, Xiao He.* 
+    - [paper](http://proceedings.mlr.press/v97/franceschi19a.html) 
+    - [code](https://github.com/lucfra/LDS)
 
 1. **Graph U-Nets.**
-*Hongyang Gao, Shuiwang Ji.* ICML 2019. [paper](http://proceedings.mlr.press/v97/gao19a.html) [code](https://github.com/HongyangGao/gunet)
+    - ICML 2019. 
+    - *Hongyang Gao, Shuiwang Ji.* 
+    - [paper](http://proceedings.mlr.press/v97/gao19a.html) 
+    - [code](https://github.com/HongyangGao/gunet)
 
 1. **MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing.**
 *Sami Abu-El-Haija, Bryan Perozzi, Amol Kapoor, Hrayr Harutyunyan, Nazanin Alipourfard, Kristina Lerman, Greg Ver Steeg, and Aram Galstyan.* ICML 2019. [paper](https://arxiv.org/pdf/1905.00067.pdf) [code(tensorflow)](https://github.com/samihaija/mixhop) [code(pytorch)](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)

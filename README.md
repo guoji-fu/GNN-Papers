@@ -11,6 +11,11 @@ Awsome Papers on GNNs with interesting theoretical analysis.
 
 ## Interesting Models
 
+1. **Invariant and Equivariant Graph Networks.**
+    - ICLR 2019.
+    - *Haggai Maron, Heli Ben-Hamu, Nadav Shamir & Yaron Lipman.*
+    - [paper](https://arxiv.org/pdf/1812.09902.pdf)
+
 1. **A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"**
     - ICLR 2022.
     - *Asiri Wijesinghe, Qing Wang.*

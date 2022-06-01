@@ -11,6 +11,16 @@ Awsome Papers on GNNs with interesting theoretical analysis.
 
 ## Interesting Models
 
+1. **Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering.**
+    - NIPS 2016.
+    - *Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst.*
+    - [paper](https://arxiv.org/pdf/1606.09375.pdf)
+
+1. **Simplifying Graph Convolutional Networks.**
+    - ICML 2019.
+    - *Felix Wu, Tianyi Zhang, Amauri Holanda de Souza Jr., Christopher Fifty, Tao Yu, Kilian Q. Weinberger.*
+    - [paper](https://arxiv.org/pdf/1902.07153.pdf)
+
 1. **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.**
     - AAAI 2019.
     - *Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, Martin Grohe.*
@@ -20,6 +30,11 @@ Awsome Papers on GNNs with interesting theoretical analysis.
     - ICLR 2019.
     - *Haggai Maron, Heli Ben-Hamu, Nadav Shamir & Yaron Lipman.*
     - [paper](https://arxiv.org/pdf/1812.09902.pdf)
+
+1. **Provably Powerful Graph Networks.**
+    - NeurIPS 2019.
+    - *Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman.*
+    - [paper](https://arxiv.org/pdf/1905.11136.pdf)
 
 1. **Nested Graph Neural Networks.**
     - NeurIPS 2021.
@@ -112,13 +127,18 @@ Awsome Papers on GNNs with interesting theoretical analysis.
     - *Keyulu Xu, Weihua Hu, Jure Leskovec, Stefanie Jegelka.*
     - [paper](https://arxiv.org/pdf/1810.00826.pdf)
 
+1. **On the Universality of Invariant Networks.**
+    - ICML 2019.
+    - *Haggai Maron, Ethan Fetaya, Nimrod Segol, Yaron Lipman.*
+    - [paper](https://arxiv.org/pdf/1901.09342.pdf)
+
 1. **On the Equivalence Between Graph Isomorphism Testing and Function Approximation with GNNs.**
     - NeurIPS 2019.
     - *Zhengdao Chen, Soledad Villar, Lei Chen, Joan Bruna.*
     - [paper](https://arxiv.org/pdf/1905.12560.pdf)
 
 1. **Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology.**
-    - NIPS 2019.
+    - NeurIPS 2019.
     - *Nima Dehmamy, Albert-László Barabási, Rose Yu.*
     - [paper](https://arxiv.org/pdf/1907.05008.pdf)
 

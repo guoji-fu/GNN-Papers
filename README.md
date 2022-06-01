@@ -1,5 +1,5 @@
 # GNN-Papers
-Awsome Papers that I like in Graph Neural Networks (GNNs).
+Awsome Papers on Graph Neural Networks (GNNs) with interesting theoretical analysis.
 
 ## Contents
 - [GNNs with Theoretical Analysis](#model)

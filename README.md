@@ -16,11 +16,6 @@ Awsome Papers on GNNs with interesting theoretical analysis.
     - *Michaël Defferrard, Xavier Bresson, Pierre Vandergheynst.*
     - [paper](https://arxiv.org/pdf/1606.09375.pdf)
 
-1. **Simplifying Graph Convolutional Networks.**
-    - ICML 2019.
-    - *Felix Wu, Tianyi Zhang, Amauri Holanda de Souza Jr., Christopher Fifty, Tao Yu, Kilian Q. Weinberger.*
-    - [paper](https://arxiv.org/pdf/1902.07153.pdf)
-
 1. **Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks.**
     - AAAI 2019.
     - *Christopher Morris, Martin Ritzert, Matthias Fey, William L. Hamilton, Jan Eric Lenssen, Gaurav Rattan, Martin Grohe.*
@@ -61,20 +56,25 @@ Awsome Papers on GNNs with interesting theoretical analysis.
     - *Saurabh Verma, Zhi-Li Zhang.*
     - [paper](https://arxiv.org/pdf/1905.01004.pdf)
 
-1. **Convergence and Stability of Graph Convolutional Networks on Large Random Graphs.**
-    - NeurIPS 2020.
-    - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
-    - [paper](https://arxiv.org/pdf/2006.01868.pdf)
-
 1. **Fast Learning of Graph Neural Networks with Guaranteed Generalizability: One-hidden-layer Case.**
     - ICML 2020.
     - *Shuai Zhang, Meng Wang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong.*
     - [paper](https://arxiv.org/pdf/2006.14117.pdf)
 
+1. **Convergence and Stability of Graph Convolutional Networks on Large Random Graphs.**
+    - NeurIPS 2020.
+    - *Nicolas Keriven, Alberto Bietti, Samuel Vaiter.*
+    - [paper](https://arxiv.org/pdf/2006.01868.pdf)
+
 1. **A PAC-Bayesian Approach to Generalization Bounds for Graph Neural Networks.**
     - ICLR 2021.
     - *Renjie Liao, Raquel Urtasun, Richard Zemel.*
     - [paper](https://arxiv.org/pdf/2012.07690.pdf)
+
+1. **From Local Structures to Size Generalization in Graph Neural Networks.**
+    - ICML 2021.
+    - *Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron.*
+    - [paper](https://arxiv.org/pdf/2010.08853.pdf)
 
 1. **Subgroup Generalization and Fairness of Graph Neural Networks.**
     - NeurIPS 2021.
@@ -85,11 +85,6 @@ Awsome Papers on GNNs with interesting theoretical analysis.
     - NeurIPS 2021.
     - *Pascal Mattia Esser, Leena C. Vankadara, Debarghya Ghoshdastidar.*
     - [paper](https://arxiv.org/pdf/2112.03968.pdf)
-
-1. **From Local Structures to Size Generalization in Graph Neural Networks.**
-    - ICML 2021.
-    - *Gilad Yehudai, Ethan Fetaya, Eli Meirom, Gal Chechik, Haggai Maron.*
-    - [paper](https://arxiv.org/pdf/2010.08853.pdf)
 
 1. **Generalization Bounds for Graph Convolutional Neural Networks via Rademacher Complexity.**
     - arXiv 2021.
@@ -193,6 +188,11 @@ Awsome Papers on GNNs with interesting theoretical analysis.
     - *Muhammet Balcilar, Guillaume Renton, Pierre Héroux, Benoit Gaüzère, Sébastien Adam, Paul Honeine.*
     - [paper](https://openreview.net/pdf?id=-qh0M9XWxnv)
 
+1. **A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**
+    - ICML 2021.
+    - *Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*
+    - [paper](https://arxiv.org/pdf/2102.06790.pdf)
+
 1. **On Provable Benefits of Depth in Training Graph Convolutional Networks.**
     - NeurIPS 2021.
     - *Weilin Cong, Morteza Ramezani, Mehrdad Mahdavi.*
@@ -212,11 +212,6 @@ Awsome Papers on GNNs with interesting theoretical analysis.
     - NeurIPS 2021.
     - *Johannes Klicpera, Florian Becker, Stephan Günnemann.*
     - [paper](https://arxiv.org/pdf/2106.08903.pdf)
-
-1. **A Unified Lottery Ticket Hypothesis for Graph Neural Networks.**
-    - ICML 2021.
-    - *Tianlong Chen, Yongduo Sui, Xuxi Chen, Aston Zhang, Zhangyang Wang.*
-    - [paper](https://arxiv.org/pdf/2102.06790.pdf)
 
 1. **Expressiveness and Approximation Properties of Graph Neural Networks.**
     - ICLR 2022.

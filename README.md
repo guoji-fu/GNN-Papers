@@ -31,11 +31,6 @@ Awsome Papers on GNNs with interesting theoretical analysis.
     - *Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman.*
     - [paper](https://arxiv.org/pdf/1905.11136.pdf)
 
-1. **Adaptive Universal Generalized PageRank Graph Neural Network.**
-    - ICLR 2021.
-    - *Eli Chien, Jianhao Peng, Pan Li, Olgica Milenkovic.*
-    - [paper](https://arxiv.org/pdf/2006.07988.pdf)
-
 1. **Nested Graph Neural Networks.**
     - NeurIPS 2021.
     - *Muhan Zhang, Pan Li.*

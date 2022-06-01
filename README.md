@@ -2,14 +2,14 @@
 Awsome Papers on GNNs with interesting theoretical analysis.
 
 ## Contents
-- [GNNs with Theoretical Analysis](#model)
+- [Interesting Models](#model)
 - [Statistical Behaviours](#stat)
 - [Expressive Power](#expre)
 
 
 <a name="model" />
 
-## GNNs with Theoretical Analysis
+## Interesting Models
 
 1. **A New Perspective on "How Graph Neural Networks Go Beyond Weisfeiler-Lehman?"**
     - ICLR 2022.
